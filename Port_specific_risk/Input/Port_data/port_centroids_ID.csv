@@ -1,0 +1,1427 @@
+lat,lon,ID,port_name,country,continent
+-21.135,-175.179,1,Nuku Alofa,Tonga,Oceania
+-19.799,-174.351,2,Pangai,Tonga,Oceania
+-18.652,-173.986,3,Neiafu,Tonga,Oceania
+-13.745,-172.216,4,Salelologa,Samoa,Oceania
+-13.824,-171.76,5,Apia,Samoa,Oceania
+-14.286,-170.674,6,Pago Pago Harbor,American Samoa,Oceania
+-19.046,-169.931,7,Alofi,Niue,Oceania
+-21.199,-159.779,8,Avatiu,Cook Islands,Oceania
+21.299,-158.104,9,Barbor's Point,U.S.A.,North-America
+21.326,-157.925,10,Honolulu,U.S.A.,North-America
+1.978,-157.511,11,Kiribati,Kiribati,Oceania
+19.743,-155.067,12,Hilo,U.S.A.,North-America
+-16.492,-151.756,13,Vaitape,French Polynesia,Oceania
+-16.619,-151.545,14,Tahaa,French Polynesia,Oceania
+-16.731,-151.441,15,Uturoa,French Polynesia,Oceania
+-16.715,-151.034,16,Fare,French Polynesia,Oceania
+61.229,-149.889,17,Anchorage,U.S.A.,North-America
+-17.542,-149.579,18,Papeete,French Polynesia,Oceania
+60.777,-148.667,19,Whittier,U.S.A.,North-America
+61.086,-146.393,20,Swanport,U.S.A.,North-America
+-8.921,-140.094,21,Baie Taoihae,French Polynesia,Oceania
+-9.812,-139.021,22,Atuona,French Polynesia,Oceania
+-23.119,-134.965,23,Port Rikitea,French Polynesia,Oceania
+54.263,-130.313,24,Prince Rupert,U.S.A.,North-America
+43.407,-124.252,25,Empire,U.S.A.,North-America
+49.143,-123.864,26,Harmac,Canada,North-America
+46.957,-123.849,27,Aberdeen,U.S.A.,North-America
+48.125,-123.426,28,Port Angeles,Canada,North-America
+48.685,-123.406,29,Sydney,Canada,North-America
+49.295,-122.995,30,Vancouver,Canada,North-America
+49.158,-122.973,31,New Westminster,Canada,North-America
+45.611,-122.754,32,Portland,U.S.A.,North-America
+48.847,-122.729,33,Cherry Point,Canada,North-America
+45.637,-122.715,34,Vancouver,U.S.A.,North-America
+48.498,-122.622,35,Anacortes,Canada,North-America
+48.751,-122.503,36,Bellingham,U.S.A.,North-America
+47.265,-122.402,37,Tacoma,U.S.A.,North-America
+37.786,-122.396,38,San Fransisco,U.S.A.,North-America
+37.923,-122.386,39,Point Richmond,U.S.A.,North-America
+47.601,-122.348,40,Seattle,U.S.A.,North-America
+37.803,-122.319,41,Oakland,U.S.A.,North-America
+47.981,-122.225,42,Everett,U.S.A.,North-America
+38.043,-122.138,43,Benicia,U.S.A.,North-America
+37.954,-121.33,44,Stockton,U.S.A.,North-America
+34.148,-119.208,45,Port Hueneme,U.S.A.,North-America
+33.908,-118.431,46,EL Segundo,U.S.A.,North-America
+33.744,-118.233,47,Los Angeles,U.S.A.,North-America
+32.677,-117.148,48,San Diego,U.S.A.,North-America
+32.347,-117.065,49,Rosarito,Mexico,Latin-America
+31.815,-116.605,50,Ensenada,Mexico,Latin-America
+27.904,-110.868,51,Guaymas,Mexico,Latin-America
+24.247,-110.314,52,Pichilingue,Mexico,Latin-America
+25.57,-109.07,53,Topolorampo,Mexico,Latin-America
+23.19,-106.41,54,Mazatlan,Mexico,Latin-America
+19.045,-104.303,55,Manzanillo,Mexico,Latin-America
+17.952,-102.16,56,Lazaro Cardenas,Mexico,Latin-America
+16.836,-99.877,57,Acapulco,Mexico,Latin-America
+22.478,-97.864,58,Altamira,Mexico,Latin-America
+22.228,-97.853,59,Tampico,Mexico,Latin-America
+27.83,-97.37,60,Corpus Christi,U.S.A.,North-America
+20.943,-97.329,61,Tuxpan,Mexico,Latin-America
+25.983,-97.309,62,Brownsville,U.S.A.,North-America
+27.846,-97.067,63,Port Aransas,U.S.A.,North-America
+28.598,-96.566,64,Port Lavaca,U.S.A.,North-America
+19.221,-96.148,65,Veracruz,Mexico,Latin-America
+28.942,-95.311,66,Freeport,U.S.A.,North-America
+16.156,-95.187,67,Salina Cruz,Mexico,Latin-America
+29.71,-95.074,68,Houston,U.S.A.,North-America
+29.369,-94.89,69,Texas City,U.S.A.,North-America
+29.313,-94.815,70,Galveston,U.S.A.,North-America
+18.141,-94.415,71,Coatzacoalcos,Mexico,Latin-America
+30.047,-94.026,72,Beaumont,U.S.A.,North-America
+29.9,-93.923,73,Port Arthur,U.S.A.,North-America
+30.175,-93.296,74,Lake Charles,U.S.A.,North-America
+18.442,-93.201,75,Dos Bocas Terminal,Mexico,Latin-America
+46.731,-92.068,76,Superior,U.S.A.,North-America
+47.149,-91.47,77,Two Harbors,U.S.A.,North-America
+30.438,-91.205,78,Baton Rouge,U.S.A.,North-America
+29.682,-91.182,79,Morgan City,U.S.A.,North-America
+13.918,-90.813,80,Puerto Quetzal,Guatemala,Latin-America
+30.021,-90.621,81,South Louisiana,U.S.A.,North-America
+29.127,-90.203,82,Founchon,U.S.A.,North-America
+29.854,-90.099,83,New Orleans,U.S.A.,North-America
+28.861,-90.022,84,LOOP terminal,U.S.A.,North-America
+29.262,-89.963,85,Grand Isle,U.S.A.,North-America
+13.577,-89.836,86,Acajutla,El Salvador,Latin-America
+21.349,-89.678,87,Progreso,Mexico,Latin-America
+48.377,-89.176,88,Thunder Bay,Canada,North-America
+30.351,-89.083,89,Gulfport,U.S.A.,North-America
+15.717,-88.613,90,Santo Thomas De Castilla,Guatemala,Latin-America
+30.339,-88.535,91,Pascagoula,U.S.A.,North-America
+16.512,-88.403,92,Big Creek,Belize,Latin-America
+17.474,-88.198,93,Belize City,Belize,Latin-America
+30.625,-88.059,94,Mobile,U.S.A.,North-America
+44.515,-88.016,95,Green Bay,U.S.A.,North-America
+15.813,-87.999,96,Puerto Cortes,Honduras,Latin-America
+43.019,-87.893,97,Milwaukee,U.S.A.,North-America
+44.095,-87.656,98,Manitowoc,U.S.A.,North-America
+45.095,-87.593,99,Menominee,U.S.A.,North-America
+41.683,-87.547,100,Calumet Harbor,U.S.A.,North-America
+41.666,-87.443,101,Indiana Harbor,U.S.A.,North-America
+13.378,-87.428,102,Puerto De Hencan,Honduras,Latin-America
+41.64,-87.408,103,Buffington,U.S.A.,North-America
+46.569,-87.38,104,Presque Isle,U.S.A.,North-America
+41.617,-87.322,105,Gary,U.S.A.,North-America
+12.473,-87.162,106,Corinto,Nicaragua,Latin-America
+41.634,-87.145,107,Burns Harbor,U.S.A.,North-America
+20.526,-87.038,108,San Miguel De Cozumel,Mexico,Latin-America
+15.793,-86.761,109,La Ceiba,Honduras,Latin-America
+43.062,-86.231,110,Grand Haven,U.S.A.,North-America
+16.005,-85.969,111,Puerto Castilla,Honduras,Latin-America
+30.137,-85.715,112,Panama City,U.S.A.,North-America
+9.908,-84.745,113,Puerto Caldera,Costa Rica,Latin-America
+22.679,-83.968,114,Cabanas,Cuba,Caribbean
+43.617,-83.845,115,Bay City,U.S.A.,North-America
+41.693,-83.464,116,Toledo,U.S.A.,North-America
+14.017,-83.384,117,Puerto Cabezas,Nicaragua,Latin-America
+8.622,-83.17,118,Golfito,Costa Rica,Latin-America
+42.286,-83.133,119,Rouge River,U.S.A.,North-America
+10.008,-83.087,120,Puerto Moin,Costa Rica,Latin-America
+8.209,-82.871,121,Charco Azul,Panama,Latin-America
+23,-82.761,122,Mariel,Cuba,Caribbean
+41.499,-82.721,123,Sandusky,U.S.A.,North-America
+27.632,-82.562,124,Port Manatee,U.S.A.,North-America
+27.867,-82.47,125,Tampa,U.S.A.,North-America
+42.972,-82.42,126,Sarnia,Canada,North-America
+23.13,-82.343,127,Bahai De La Habana,Cuba,Caribbean
+8.951,-82.113,128,Chiriqui Grande,Panama,Latin-America
+41.478,-81.695,129,Cleveland,U.S.A.,North-America
+30.381,-81.549,130,Jacksonville,U.S.A.,North-America
+23.061,-81.538,131,Matanzas,Cuba,Caribbean
+31.125,-81.515,132,Brunswick,U.S.A.,North-America
+19.294,-81.383,133,Georgetown,Cayman Islands,Caribbean
+-4.575,-81.279,134,Talara,Peru,Latin-America
+-5.081,-81.112,135,Paita,Peru,Latin-America
+32.102,-81.071,136,Savannah,U.S.A.,North-America
+-5.797,-81.053,137,Puerto Bayovar,Peru,Latin-America
+-2.147,-80.827,138,La Libertad,Ecuador,Latin-America
+-0.942,-80.713,139,Manta,Ecuador,Latin-America
+28.395,-80.599,140,Canaveral Harbor,U.S.A.,North-America
+22.151,-80.478,141,Cienfuegos,Cuba,Caribbean
+25.769,-80.195,142,Miami,U.S.A.,North-America
+26.077,-80.12,143,Port Everglades,U.S.A.,North-America
+42.79,-80.059,144,Port Dover,Canada,North-America
+26.761,-80.042,145,Palm Beach,U.S.A.,North-America
+-3.255,-80.004,146,Puerto Bolivar,Ecuador,Latin-America
+32.893,-79.92,147,Charleston,U.S.A.,North-America
+9.345,-79.906,148,Puerto Cristobal,Panama,Latin-America
+-2.251,-79.901,149,Guayaquil,Ecuador,Latin-America
+9.376,-79.887,150,Puerto Colon,Panama,Latin-America
+9.361,-79.887,151,Manzanillo,Panama,Latin-America
+9.391,-79.816,152,Bahia De Las Minas,Panama,Latin-America
+43.282,-79.808,153,Hamilton,Canada,North-America
+0.99,-79.647,154,Esmeraldas,Ecuador,Latin-America
+43.49,-79.609,155,Clarkson,Canada,North-America
+8.956,-79.57,156,Balboa,Panama,Latin-America
+43.632,-79.354,157,Toronto,Canada,North-America
+-8.227,-78.984,158,Salaverry,Peru,Latin-America
+26.524,-78.768,159,Freeport,Bahamas,Caribbean
+-9.101,-78.599,160,Puerto De Chimbote,Peru,Latin-America
+26.621,-78.224,161,South Riding Point,Bahamas,Caribbean
+-10.101,-78.18,162,Punta Lobitos (Bahia De Huarmey),Peru,Latin-America
+25.176,-78.023,163,Nicholls Town,Bahamas,Caribbean
+34.171,-77.948,164,"Wilmington, NC",U.S.A.,North-America
+18.46,-77.941,165,Montego Bay,Jamaica,Caribbean
+18.49,-77.639,166,Falmouth,Jamaica,Caribbean
+25.004,-77.543,167,Clifton Pier,Bahamas,Caribbean
+18.468,-77.43,168,Rio Bueno,Jamaica,Caribbean
+25.08,-77.34,169,Nassau,Bahamas,Caribbean
+21.551,-77.218,170,Nuevitas Bay,Cuba,Caribbean
+-12.048,-77.147,171,Puerto Del Callao,Peru,Latin-America
+17.894,-77.123,172,Port Esquivel,Jamaica,Caribbean
+18.41,-77.115,173,Ocho Rios,Jamaica,Caribbean
+26.544,-77.063,174,Marsh Harbor,Bahamas,Caribbean
+3.876,-77.062,175,Buenaventura,Colombia,Latin-America
+-12.253,-76.943,176,Conchan Oil Terminal,Peru,Latin-America
+17.959,-76.785,177,Kingston,Jamaica,Caribbean
+34.705,-76.69,178,Morehead City,U.S.A.,North-America
+39.225,-76.545,179,Baltimore,U.S.A.,North-America
+36.973,-76.426,180,Newport News,U.S.A.,North-America
+36.864,-76.32,181,Norfolk,U.S.A.,North-America
+20.005,-75.86,182,Santiago De Cuba,Cuba,Caribbean
+23.509,-75.773,183,Georgetown,Bahamas,Caribbean
+9.49,-75.753,184,Covenas Offshore Term.,Colombia,Latin-America
+39.706,-75.544,185,"Wilmington, DE",U.S.A.,North-America
+10.337,-75.528,186,Cartagena,Colombia,Latin-America
+39.852,-75.341,187,Chester,U.S.A.,North-America
+-15.287,-75.189,188,Bahia San Nicolas,Peru,Latin-America
+39.921,-75.115,189,Philadelphia,U.S.A.,North-America
+20.659,-74.902,190,Cayo Moa Grande,Cuba,Caribbean
+10.971,-74.758,191,Barranquilla,Colombia,Latin-America
+11.062,-74.235,192,Puerto Nuevo,Colombia,Latin-America
+11.25,-74.217,193,Santa Maria,Colombia,Latin-America
+40.657,-74.112,194,New York-New Jersey,U.S.A.,North-America
+21.008,-73.669,195,Matthew Town,Bahamas,Caribbean
+45.542,-73.53,196,Montreal,Canada,North-America
+41.157,-73.175,197,Bridgeport,U.S.A.,North-America
+-37.031,-73.159,198,Coronei,Chile,Latin-America
+-36.73,-73.143,199,Bahia San Vicente,Chile,Latin-America
+-41.508,-72.993,200,Puerto Montt,Chile,Latin-America
+-36.706,-72.982,201,Lirquen,Chile,Latin-America
+41.272,-72.889,202,New Haven,U.S.A.,North-America
+19.103,-72.705,203,Saint-Marc,Haiti,Caribbean
+46.336,-72.544,204,Trois Rivieres,Canada,North-America
+18.624,-72.364,205,Port Au Prince,Haiti,Caribbean
+21.737,-72.278,206,Providenciales,Turks and Caicos Islands,Caribbean
+19.768,-72.199,207,Cap Haitien,Haiti,Caribbean
+-17.001,-72.107,208,Bahia De Matarani,Peru,Latin-America
+12.253,-71.961,209,Puerto Bolivar,Colombia,Latin-America
+19.709,-71.743,210,Pepillo Salcedo,Dominican Republic,Caribbean
+-33.034,-71.62,211,Bahia De Valparaiso,Chile,Latin-America
+-33.587,-71.618,212,Puerto San Antonio,Chile,Latin-America
+10.514,-71.617,213,Bajo Grande,Venezuela,Latin-America
+10.641,-71.605,214,Maracaibo,Venezuela,Latin-America
+10.76,-71.557,215,Puerto Miranda,Venezuela,Latin-America
+-32.769,-71.503,216,Bahia Quintero (Ventanas),Chile,Latin-America
+41.613,-71.408,217,Davisville Depot,U.S.A.,North-America
+41.781,-71.37,218,Providence,U.S.A.,North-America
+-17.593,-71.354,219,Puerto Ilo,Peru,Latin-America
+46.806,-71.214,220,Quebec,Canada,North-America
+21.431,-71.149,221,Grand Turk,Turks and Caicos Islands,Caribbean
+42.364,-71.025,222,Boston,U.S.A.,North-America
+41.629,-70.909,223,New Bedford,U.S.A.,North-America
+48.367,-70.858,224,La Baie (Port Alfred),Canada,North-America
+-53.041,-70.834,225,rada Punta Arenas,Chile,Latin-America
+-27.051,-70.823,226,Puerto Caldera,Chile,Latin-America
+43.097,-70.768,227,Portmouth,U.S.A.,North-America
+19.8,-70.701,228,Puerto Plata,Dominican Republic,Caribbean
+-26.355,-70.642,229,Puerto Chanaral,Chile,Latin-America
+-23.691,-70.428,230,Antofagasta,Chile,Latin-America
+-23.069,-70.406,231,Mejillones,Chile,Latin-America
+-18.469,-70.326,232,Rada De Arica,Chile,Latin-America
+43.645,-70.261,233,"Portland, ME",U.S.A.,North-America
+11.622,-70.232,234,Punta Cardon,Venezuela,Latin-America
+11.747,-70.212,235,Amuay (Bahia De Amuay),Venezuela,Latin-America
+-22.096,-70.212,236,Tocopilla,Chile,Latin-America
+-20.777,-70.193,237,Caleta Patillos,Chile,Latin-America
+-20.204,-70.156,238,Iquique,Chile,Latin-America
+12.499,-70.022,239,Paarden Baai - (Orangestad),Aruba,Caribbean
+18.419,-70.017,240,Puerto De Haina,Dominican Republic,Caribbean
+12.432,-69.917,241,Sint Nicolaas Baai,Aruba,Caribbean
+18.469,-69.881,242,Santo Domingo,Dominican Republic,Caribbean
+18.423,-69.629,243,Andres (Andres LGN Terminal),Dominican Republic,Caribbean
+18.44,-69.286,244,San Pedro De Macoris,Dominican Republic,Caribbean
+12.189,-69.022,245,Bullen Baai,Curacao,Caribbean
+12.119,-68.927,246,Willemstad,Curacao,Caribbean
+44.445,-68.901,247,Searsport,U.S.A.,North-America
+12.073,-68.864,248,Caracasbaai,Curacao,Caribbean
+12.22,-68.382,249,Goto Oil Terminal,Bonaire,Caribbean
+12.12,-68.284,250,Kralendijk,Bonaire,Caribbean
+10.493,-68.133,251,El Palito,Venezuela,Latin-America
+49.246,-68.127,252,Baie Comeau,Canada,North-America
+10.478,-68.006,253,Puerto Cabello,Venezuela,Latin-America
+-46.093,-67.504,254,Comodoro Rivadavia,Argentina,Latin-America
+45.149,-67.136,255,Port Bayside NB,Canada,North-America
+10.605,-66.952,256,La Guaira,Venezuela,Latin-America
+50.031,-66.778,257,Port Cartier,Canada,North-America
+17.985,-66.75,258,Playa De Guayanilla,Puerto Rico,Caribbean
+17.973,-66.615,259,Playa De Ponce,Puerto Rico,Caribbean
+50.183,-66.434,260,Sept Iles,Canada,North-America
+18.448,-66.105,261,San Juan,Puerto Rico,Caribbean
+45.27,-66.04,262,St John,Canada,North-America
+45.196,-65.985,263,Canaport (St. John),Canada,North-America
+18.052,-65.834,264,Puerto Yabucoa,Puerto Rico,Caribbean
+-42.753,-65.01,265,Puerto Madryn,Argentina,Latin-America
+18.332,-64.952,266,Charlotte Amalie,U.S. Virgin Islands,Caribbean
+10.099,-64.87,267,Jose Terminal,Venezuela,Latin-America
+17.7,-64.757,268,Limetree Bay,U.S. Virgin Islands,Caribbean
+17.749,-64.706,269,Christiansted,U.S. Virgin Islands,Caribbean
+10.244,-64.621,270,Puerto La Cruz,Venezuela,Latin-America
+18.421,-64.611,271,Road Harbor,British Virgin Islands,Caribbean
+10.858,-64.033,272,El Guamache,Venezuela,Latin-America
+44.664,-63.578,273,Halifax,Canada,North-America
+17.616,-63.251,274,The Bottom,Saba,Caribbean
+18.018,-63.085,275,Coles Bay Oil Terminal,Sint Maarten,Caribbean
+18.08,-63.084,276,Baie Du Marigot,Saint Martin,Caribbean
+18.189,-63.073,277,Anguilla,Anguilla,Caribbean
+18.01,-63.046,278,Phillipsburg,Sint Maarten,Caribbean
+17.491,-62.998,279,Oranjestad,Sint Eustatius,Caribbean
+17.901,-62.853,280,Gustavia,Saint-Barthelemy,Caribbean
+17.289,-62.714,281,Basseterre,Saint Kitts and Nevis,Caribbean
+8.353,-62.699,282,Palua,Venezuela,Latin-America
+17.109,-62.624,283,Charlestown,Saint Kitts and Nevis,Caribbean
+-38.787,-62.287,284,Puerto Ingeniero White,Argentina,Latin-America
+16.704,-62.222,285,Plymouth,Montserrat,Caribbean
+16.803,-62.209,286,Brades,Montserrat,Caribbean
+17.134,-61.859,287,St Johns,Antigua and Barbuda,Caribbean
+12.055,-61.757,288,St. George's,Grenada,Caribbean
+10.188,-61.703,289,Point Fortin,Trinidad and Tobago,Caribbean
+10.678,-61.641,290,Chaguaramas,Trinidad and Tobago,Caribbean
+10.247,-61.634,291,Brighton,Trinidad and Tobago,Caribbean
+16.221,-61.537,292,Pointe A Pitre,Guadeloupe,Caribbean
+10.644,-61.512,293,Port of Spain,Trinidad and Tobago,Caribbean
+10.391,-61.492,294,Point Lisa Port,Trinidad and Tobago,Caribbean
+10.321,-61.475,295,Pointe A Pierre,Trinidad and Tobago,Caribbean
+12.596,-61.416,296,Clifton,Saint Vincent and the Grenadines,Caribbean
+15.324,-61.394,297,Roseau,Dominica,Caribbean
+12.705,-61.329,298,Retreat,Saint Vincent and the Grenadines,Caribbean
+13.01,-61.237,299,Port Elizabeth,Saint Vincent and the Grenadines,Caribbean
+13.15,-61.231,300,Kingstown,Saint Vincent and the Grenadines,Caribbean
+14.593,-61.049,301,Fort De France,Martinique,Caribbean
+14.002,-61.008,302,Castries,Saint Lucia,Caribbean
+10.137,-61.001,303,Galeota Point Terminal,Trinidad and Tobago,Caribbean
+13.722,-60.957,304,Vieux Fort,Saint Lucia,Caribbean
+-32.636,-60.756,305,Puerto San Martin,Argentina,Latin-America
+-32.982,-60.605,306,Rosario,Argentina,Latin-America
+53.333,-60.389,307,Goose Bay,Canada,North-America
+46.176,-60.224,308,Sydney,U.S.A.,North-America
+-33.362,-60.155,309,San Nicolas,Argentina,Latin-America
+-3.162,-59.95,310,Manaus,Brazil,Latin-America
+13.283,-59.651,311,Arawak,Barbados,Caribbean
+13.073,-59.597,312,Bridgetown,Barbados,Caribbean
+47.573,-59.141,313,Port Aux Basques,Canada,North-America
+-34.087,-59.015,314,Zarate,Argentina,Latin-America
+-34.157,-58.942,315,Campana,Argentina,Latin-America
+-38.576,-58.706,316,Quequen,Argentina,Latin-America
+-34.611,-58.355,317,Buenos Aires,Argentina,Latin-America
+6,-58.303,318,Linden,Guyana,Latin-America
+6.787,-58.178,319,Georgetown,Guyana,Latin-America
+-34.85,-57.897,320,La Plata,Argentina,Latin-America
+6.255,-57.519,321,New Amsterdam,Guyana,Latin-America
+-34.9,-56.215,322,Montevideo,Uruguay,Latin-America
+5.823,-55.13,323,Paramarico,Suriname,Latin-America
+47.779,-54.016,324,Come By Chance Harbor,Canada,North-America
+47.295,-53.984,325,Argentia,Canada,North-America
+47.563,-52.699,326,St John's,Canada,North-America
+-31.783,-52.327,327,Pelotas,Brazil,Latin-America
+4.852,-52.256,328,Degrad Des Cannes,French Guiana,Latin-America
+-32.077,-52.089,329,Rio Grande,Brazil,Latin-America
+-30.025,-51.25,330,Porto Alegre,Brazil,Latin-America
+-28.229,-48.653,331,Imbituba,Brazil,Latin-America
+-26.902,-48.653,332,Itajai,Brazil,Latin-America
+-26.215,-48.622,333,Sao Francisco,Brazil,Latin-America
+-25.477,-48.582,334,Paranagua,Brazil,Latin-America
+-1.469,-48.576,335,Belem,Brazil,Latin-America
+-23.929,-46.335,336,Santos,Brazil,Latin-America
+-23.804,-45.392,337,Sao Sebastiao,Brazil,Latin-America
+-2.622,-44.363,338,Itaqui,Brazil,Latin-America
+-23.064,-44.228,339,Gebig,Brazil,Latin-America
+-22.979,-43.9,340,Guaiba Island Terminal,Brazil,Latin-America
+-22.853,-43.153,341,Rio De Janeiro,Brazil,Latin-America
+-22.379,-41.768,342,Macae,Brazil,Latin-America
+-21.86,-41,343,Brasil Port,Brazil,Latin-America
+-20.326,-40.331,344,Vitoria,Brazil,Latin-America
+-20.281,-40.235,345,Tubarao,Brazil,Latin-America
+-19.843,-40.059,346,Portocel,Brazil,Latin-America
+-3.525,-38.799,347,Porto Pecem,Brazil,Latin-America
+-12.754,-38.623,348,Madre De Deus,Brazil,Latin-America
+-12.957,-38.569,349,Port De Salvador,Brazil,Latin-America
+-12.785,-38.488,350,Aratu,Brazil,Latin-America
+-3.708,-38.481,351,Porto De Mucuripe,Brazil,Latin-America
+-10.847,-36.925,352,Port De Aracaju,Brazil,Latin-America
+-9.687,-35.744,353,Porto De Maceio,Brazil,Latin-America
+-5.768,-35.204,354,Natal,Brazil,Latin-America
+-8.395,-34.964,355,Porto De Suape,Brazil,Latin-America
+-8.053,-34.866,356,Recife,Brazil,Latin-America
+-6.974,-34.839,357,Cabedelo,Brazil,Latin-America
+38.53,-28.624,358,Horta,Portugal,Western-Europe
+38.718,-27.056,359,Praia De Vitoria,Portugal,Western-Europe
+37.736,-25.668,360,Ponta Delgada,Portugal,Western-Europe
+16.886,-25.006,361,Porto Grande,Cape Verde,Africa
+14.916,-24.503,362,Port Vale Knights,Cape Verde,Africa
+14.91,-23.5,363,Porto Da Praia,Cape Verde,Africa
+16.75,-22.982,364,Palmeira,Cape Verde,Africa
+16.178,-22.925,365,Sal Rei,Cape Verde,Africa
+64.151,-21.879,366,Reykjavik,Iceland,Northern-Europe
+65.696,-18.078,367,Akureyri,Iceland,Northern-Europe
+28.674,-17.765,368,Santa Cruz De La Palma,Spain,Western-Europe
+14.682,-17.428,369,Dakar,Senegal,Africa
+20.855,-17.018,370,Nouadhibou,Mauritania,Africa
+32.737,-16.728,371,Funchal,Portugal,Western-Europe
+13.448,-16.571,372,Banjul,Gambia,Africa
+28.469,-16.242,373,Santa Cruz De Tenerife,Spain,Western-Europe
+17.987,-16.029,374,Nouakchott,Mauritania,Africa
+23.646,-15.959,375,Ad Dakhla,Western Sahara,Africa
+11.855,-15.584,376,Bissau,Guinea-Bissau,Africa
+28.045,-15.397,377,Las Palmas,Spain,Western-Europe
+10.639,-14.622,378,Kamsar,Guinea,Africa
+10.751,-14.562,379,Victoria,Guinea,Africa
+64.662,-14.284,380,Djupivogur,Iceland,Northern-Europe
+65.038,-14.104,381,Eskifjordhur,Iceland,Northern-Europe
+28.493,-13.854,382,Puerto Del Rosario,Spain,Western-Europe
+9.516,-13.714,383,Conakry,Guinea,Africa
+28.966,-13.533,384,Arrecife,Spain,Western-Europe
+27.079,-13.436,385,Laayoune,Western Sahara,Africa
+8.488,-13.198,386,Freetown,Sierra Leone,Africa
+7.76,-12.399,387,Nitti,Sierra Leone,Africa
+6.346,-10.801,388,Monrovia,Liberia,Africa
+5.859,-10.054,389,Buchanan,Liberia,Africa
+30.423,-9.641,390,Agadir,Morocco,Africa
+32.309,-9.247,391,Safi,Morocco,Africa
+38.684,-9.132,392,Lisboa,Portugal,Western-Europe
+52.621,-9.081,393,Foynes,Ireland,Western-Europe
+53.264,-9.046,394,Galway,Ireland,Western-Europe
+37.941,-8.86,395,Sines,Portugal,Western-Europe
+40.145,-8.856,396,Figueira Da Foz,Portugal,Western-Europe
+38.491,-8.849,397,Setubal,Portugal,Western-Europe
+42.598,-8.774,398,Villagarcia De Arosa,Spain,Western-Europe
+42.238,-8.726,399,Vigo,Spain,Western-Europe
+40.646,-8.711,400,Aveiro,Portugal,Western-Europe
+42.399,-8.697,401,Marin,Spain,Western-Europe
+41.185,-8.691,402,Porto De Leizoes,Portugal,Western-Europe
+52.66,-8.642,403,Limerick,Ireland,Western-Europe
+33.127,-8.629,404,El Jorf Lasfar,Morocco,Africa
+37.124,-8.526,405,Lagos,Portugal,Western-Europe
+43.353,-8.442,406,La Coruna,Spain,Western-Europe
+51.862,-8.331,407,Cork,Ireland,Western-Europe
+43.472,-8.222,408,Ferrol,Spain,Western-Europe
+33.61,-7.599,409,Casablanca,Morocco,Africa
+33.722,-7.39,410,Mohammedia,Morocco,Africa
+55.045,-7.248,411,Londonderry,United Kingdom,Western-Europe
+52.265,-7.025,412,Waterford,Ireland,Western-Europe
+37.163,-6.886,413,Huelva,Spain,Western-Europe
+4.745,-6.616,414,San Pedro,Cote d'Ivoire,Africa
+53.719,-6.32,415,Drogheda,Ireland,Western-Europe
+36.519,-6.265,416,Cadiz,Spain,Western-Europe
+54.098,-6.259,417,Warren Point,Ireland,Western-Europe
+53.345,-6.205,418,Dublin,Ireland,Western-Europe
+37.338,-5.997,419,Sevilla,Spain,Western-Europe
+43.578,-5.922,420,Aviles,Spain,Western-Europe
+54.621,-5.89,421,Belfast,United Kingdom,Western-Europe
+43.562,-5.685,422,Gijon,Spain,Western-Europe
+35.88,-5.517,423,Tangier-Mediterranean,Morocco,Africa
+36.157,-5.419,424,Algeciras,Spain,Mediterranean
+36.138,-5.358,425,Europa Point,Gibraltar,Mediterranean
+35.894,-5.313,426,Cueta,Spain,Western-Europe
+50.155,-5.055,427,Falmouth Harbour,United Kingdom,Western-Europe
+51.697,-5.02,428,Milford Haven,United Kingdom,Western-Europe
+56.112,-4.843,429,Finnart Oil Terminal,United Kingdom,Western-Europe
+48.375,-4.49,430,Rade De Brest,France,Western-Europe
+36.709,-4.422,431,Malaga,Spain,Mediterranean
+55.87,-4.341,432,Glasgow,United Kingdom,Western-Europe
+57.493,-4.237,433,Iverness,United Kingdom,Western-Europe
+50.361,-4.16,434,Plymouth,United Kingdom,Western-Europe
+5.281,-4.021,435,Abidjan,Cote d'Ivoire,Africa
+43.437,-3.801,436,Santander,Spain,Western-Europe
+56.03,-3.685,437,Grangemouth,United Kingdom,Western-Europe
+54.651,-3.568,438,Workington,United Kingdom,Western-Europe
+36.719,-3.52,439,Motril,Spain,Mediterranean
+47.732,-3.344,440,Lorient,France,Western-Europe
+51.399,-3.26,441,Barry,United Kingdom,Western-Europe
+55.984,-3.176,442,Leith,United Kingdom,Western-Europe
+51.455,-3.158,443,Cardiff,United Kingdom,Western-Europe
+43.354,-3.051,444,Puerto De Bilbao,Spain,Western-Europe
+53.42,-3.018,445,Liverpool,United Kingdom,Western-Europe
+51.559,-2.979,446,Newport,United Kingdom,Western-Europe
+35.283,-2.924,447,Port Nador,Morocco,Africa
+54.034,-2.916,448,Heysham,United Kingdom,Western-Europe
+53.303,-2.902,449,Garlston,United Kingdom,Western-Europe
+48.533,-2.726,450,Le Legue,France,Western-Europe
+51.501,-2.711,451,Avonmouth,United Kingdom,Western-Europe
+49.457,-2.53,452,Saint Peter Port,Guernsey,Western-Europe
+36.831,-2.472,453,Almeria,Spain,Mediterranean
+50.575,-2.424,454,Portland Harbour,United Kingdom,Western-Europe
+47.28,-2.201,455,St Nazaire,France,Western-Europe
+47.301,-2.124,456,Montoir,France,Western-Europe
+49.177,-2.115,457,Saint Helier Harbour,Jersey,Western-Europe
+57.14,-2.072,458,Aberdeen,United Kingdom,Western-Europe
+48.646,-2.022,459,Saint-Malo,France,Western-Europe
+50.693,-1.973,460,Poole Harbour,United Kingdom,Western-Europe
+43.324,-1.913,461,Puerto De Pasajes,Spain,Western-Europe
+36.972,-1.904,462,Puerto De Carboneras,Spain,Mediterranean
+35.104,-1.865,463,Ghazaquet,Algeria,Africa
+37.182,-1.818,464,Puerto De Garrucha,Spain,Mediterranean
+46.497,-1.792,465,Les Sables D' Olonne,France,Western-Europe
+57.5,-1.785,466,Peterhead,United Kingdom,Western-Europe
+4.888,-1.741,467,Takoradi,Ghana,Africa
+4.937,-1.699,468,Sekondi,Ghana,Africa
+47.194,-1.61,469,Nantes,France,Western-Europe
+43.516,-1.5,470,Bayonne,France,Western-Europe
+54.998,-1.441,471,Tynemouth,United Kingdom,Western-Europe
+50.896,-1.423,472,Southampton,United Kingdom,Western-Europe
+54.912,-1.362,473,Sunderland,United Kingdom,Western-Europe
+50.835,-1.325,474,Fawley Marine Terminal,United Kingdom,Western-Europe
+46.158,-1.227,475,La Pallice,France,Western-Europe
+54.618,-1.157,476,Teesport,United Kingdom,Western-Europe
+60.157,-1.152,477,Lerwick,United Kingdom,Western-Europe
+50.801,-1.112,478,Portsmouth Harbour,United Kingdom,Western-Europe
+37.582,-0.974,479,Cartagena,Spain,Mediterranean
+53.7,-0.872,480,Goole,United Kingdom,Western-Europe
+37.968,-0.686,481,Torrevieja,Spain,Mediterranean
+35.714,-0.639,482,Oran,Algeria,Africa
+44.949,-0.548,483,Bordeaux,France,Western-Europe
+38.331,-0.493,484,Alicante,Spain,Mediterranean
+53.705,-0.362,485,New Holland,United Kingdom,Western-Europe
+39.441,-0.318,486,Valencia,Spain,Mediterranean
+49.228,-0.289,487,Port De Caen,France,Western-Europe
+53.74,-0.268,488,Kingston Upon Hull,United Kingdom,Western-Europe
+35.823,-0.25,489,Arzew El Djedid,Algeria,Africa
+50.829,-0.226,490,Shoreham Harbour,United Kingdom,Western-Europe
+39.643,-0.216,491,Sagunto,Spain,Mediterranean
+53.642,-0.201,492,Immingham,United Kingdom,Western-Europe
+53.578,-0.072,493,Grimsby,United Kingdom,Western-Europe
+52.969,-0.019,494,Boston,United Kingdom,Western-Europe
+5.623,0.001,495,Tema,Ghana,Africa
+39.961,0.018,496,El Grao,Spain,Mediterranean
+35.934,0.076,497,Mostaganem,Algeria,Africa
+51.494,0.097,498,London,United Kingdom,Western-Europe
+52.669,0.157,499,Wisbech,United Kingdom,Western-Europe
+49.477,0.206,500,Port of Le Havre,France,Western-Europe
+51.462,0.342,501,Tilbury,United Kingdom,Western-Europe
+51.448,0.386,502,Gravesend,United Kingdom,Western-Europe
+52.762,0.389,503,King's Lynn,United Kingdom,Western-Europe
+51.513,0.497,504,London Gateway,United Kingdom,Western-Europe
+51.392,0.513,505,Medway City,United Kingdom,Western-Europe
+49.48,0.526,506,Port Jerome,France,Westerm-Europe
+51.401,0.547,507,Chatnam Docks,United Kingdom,Western-Europe
+51.436,0.691,508,Thamesport,United Kingdom,Western-Europe
+51.435,0.745,509,Medway,United Kingdom,Western-Europe
+49.41,1.044,510,Port of Rouen,France,Western-Europe
+52.039,1.159,511,Ipswich,United Kingdom,Western-Europe
+41.095,1.218,512,Tarragona,Spain,Mediterranean
+6.139,1.282,513,Lome,Toga,Africa
+51.953,1.285,514,Felixstow,United Kingdom,Western-Europe
+51.121,1.327,515,Dover Harbor,United Kingdom,Western-Europe
+52.584,1.731,516,Great Yarmouth,United Kingdom,Western-Europe
+50.966,1.858,517,Calais,France,Western-Europe
+41.336,2.162,518,Barcelona,Spain,Mediterranean
+51.028,2.268,519,Dunkerque Port Ouest,France,Western-Europe
+6.346,2.427,520,Cotonou,Benin,Africa
+39.559,2.634,521,palma De Mallorca,Spain,Mediterranean
+51.225,2.951,522,Oostende,Belgium,Western-Europe
+43.02,3.065,523,Port-La-Nouvelle,France,Mediterranean
+36.769,3.07,524,Alger,Algeria,Africa
+51.329,3.21,525,Zeebrugge,Belgium,Western-Europe
+51.233,3.222,526,Bruges,Belgium,Western-Europe
+6.425,3.336,527,Lagos,Nigeria,Africa
+51.455,3.673,528,Vlissingen,Netherlands,Western-Europe
+43.407,3.722,529,Sete,France,Mediterranean
+51.131,3.77,530,Ghent,Belgium,Western-Europe
+51.333,3.802,531,Terneuzen,Netherlands,Western-Europe
+51.923,4.21,532,Rotterdam,Netherlands,Western-Europe
+51.285,4.313,533,Antwerp,Belgium,Western-Europe
+52.468,4.608,534,Ijmuiden,Netherlands,Western-Europe
+52.409,4.825,535,Amsterdam,Netherlands,Western-Europe
+43.4,4.835,536,Port Saint Louis Du Rhone,France,Mediterranean
+60.59,4.866,537,Stura,Norway,Northern-Europe
+43.429,4.884,538,Fos,France,Mediterranean
+43.399,4.994,539,Port-De-Bouc,France,Mediterranean
+61.599,5.043,540,Floro,Norway,Northern-Europe
+60.832,5.046,541,Mongstad,Norway,Northern-Europe
+36.75,5.09,542,Bejaia,Algeria,Africa
+61.937,5.128,543,Maloy,Norway,Northern-Europe
+60.397,5.31,544,Bergen,Norway,Northern-Europe
+43.323,5.347,545,Marseille,France,Mediterranean
+53.183,5.425,546,Harlingen,Netherlands,Western-Europe
+5.997,5.461,547,Koko,Nigeria,Africa
+59.272,5.498,548,Karsto,Norway,Northern-Europe
+60.7,5.551,549,Vikanes,Norway,Northern-Europe
+58.927,5.589,550,Tananger,Norway,Northern-Europe
+5.928,5.634,551,Sapele,Nigeria,Africa
+5.524,5.704,552,Warri,Nigeria,Africa
+58.957,5.745,553,Stavanger,Norway,Northern-Europe
+36.826,5.893,554,Djen-Djen,Algeria,Africa
+62.472,6.168,555,Alesund,Norway,Northern-Europe
+59.146,6.17,556,Ardel,Norway,Northern-Europe
+59.645,6.356,557,Sauda,Norway,Northern-Europe
+62.48,6.372,558,Alvika,Norway,Northern-Europe
+60.083,6.546,559,Odda,Norway,Northern-Europe
+53.447,6.841,560,Eemshaven,Netherlands,Western-Europe
+58.276,6.885,561,Flekkefjorden,Norway,Northern-Europe
+36.888,6.925,562,Port Methanier,Algeria,Africa
+53.318,6.962,563,Delfzijl,Netherlands,Western-Europe
+4.769,6.998,564,Port Harcourt,Nigeria,Africa
+62.861,7.008,565,Haroysund,Norway,Northern-Europe
+4.422,7.145,566,Bonny,Nigeria,Africa
+4.684,7.165,567,Onne,Nigeria,Africa
+53.356,7.199,568,Emden,Germany,Western-Europe
+43.692,7.289,569,Nice,France,Mediterranean
+61.234,7.707,570,Ardalstangen,Norway,Northern-Europe
+63.093,7.717,571,Kristiansund,Norway,Northern-Europe
+36.9,7.77,572,Annaba,Algeria,Africa
+58.142,8.004,573,Kristiansand,Norway,Northern-Europe
+53.56,8.148,574,Wilhelmshaven,Germany,Western-Europe
+56.692,8.218,575,Thyboron,Denmark,Northern-Europe
+4.967,8.3,576,Calabar,Nigeria,Africa
+40.843,8.383,577,Porto Torres,Italy,Mediterranean
+55.465,8.442,578,Esbjerg,Denmark,Northern-Europe
+44.276,8.451,579,Rada Di vado,Italy,Mediterranean
+53.344,8.49,580,Brake,Germany,Western-Europe
+44.313,8.493,581,Savonia,Italy,Mediterranean
+3.468,8.551,582,Luba,Equatorial Guinea,Africa
+39.864,8.555,583,Porto Di Oristano,Italy,Mediterranean
+53.558,8.56,584,Bremerhaven,Germany,Western-Europe
+53.865,8.714,585,Cuxhaven,Germany,Western-Europe
+3.773,8.738,586,Malabo,Equatorial Guinea,Africa
+41.918,8.745,587,Port D' Ajaccio,France,Mediterranean
+-0.682,8.777,588,Port Gentil,Gabon,Africa
+53.079,8.79,589,Bremen,Germany,Western-Europe
+44.412,8.861,590,Genova,Italy,Mediterranean
+54.475,9.027,591,Husum,Germany,Western-Europe
+39.088,9.034,592,Sarroch Oil Terminal,Italy,Mediterranean
+39.195,9.077,593,Cagliari,Italy,Mediterranean
+53.903,9.169,594,Brunsbuttel Elbahafen,Germany,Western-Europe
+55.036,9.433,595,Abenra,Denmark,Northern-Europe
+0.371,9.455,596,Libreville,Gabon,Africa
+55.491,9.491,597,Kolding,Denmark,Northern-Europe
+0.285,9.502,598,Port Owendo,Gabon,Africa
+40.924,9.53,599,Olbia,Italy,Mediterranean
+59.113,9.6,600,Porsgrunn,Norway,Northern-Europe
+4.057,9.684,601,Douala,Cameroon,Africa
+59.063,9.697,602,Brevik,Norway,Northern-Europe
+1.827,9.739,603,Bata,Equatorial Guinea,Africa
+55.56,9.755,604,Fredericia,Denmark,Northern-Europe
+56.639,9.801,605,Hobro,Denmark,Northern-Europe
+44.091,9.851,606,La Spezia,Italy,Mediterranean
+63.323,9.855,607,Thamshamm,Norway,Northern-Europe
+2.726,9.86,608,Port De Kribi,Cameroon,Africa
+37.268,9.872,609,Banzart,Tunisia,Africa
+57.057,9.949,610,Alborg,Denmark,Northern-Europe
+53.512,9.969,611,Hamburg,Germany,Western-Europe
+57.594,9.972,612,Hirtshals,Denmark,Northern-Europe
+44.032,10.043,613,Marina Di Carrara,Italy,Mediterranean
+59.039,10.045,614,Larvik,Norway,Northern-Europe
+56.459,10.056,615,Randers,Denmark,Northern-Europe
+33.918,10.103,616,Gabes,Tunisia,Africa
+34.324,10.146,617,Skhira,Tunisia,Africa
+54.339,10.159,618,Kiel,Germany,Western-Europe
+56.151,10.226,619,Arhus,Denmark,Northern-Europe
+59.74,10.244,620,Drammen,Norway,Northern-Europe
+36.807,10.287,621,Tunis,Tunisia,Africa
+43.563,10.303,622,Livorno,Italy,Mediterranean
+63.44,10.383,623,Trondheim,Norway,Northern-Europe
+55.46,10.473,624,Odense,Denmark,Northern-Europe
+59.414,10.492,625,Horten,Norway,Northern-Europe
+59.32,10.517,626,Slagenstangen,Norway,Northern-Europe
+57.437,10.545,627,Frederikshavn,Denmark,Northern-Europe
+42.934,10.548,628,Portovecchio Di Piombino,Italy,Mediterranean
+57.718,10.596,629,Skagen Havn,Denmark,Northern-Europe
+35.825,10.647,630,Sousse,Tunisia,Africa
+59.445,10.67,631,Moss,Sweden,Northern-Europe
+59.897,10.742,632,Oslo,Norway,Northern-Europe
+34.725,10.77,633,Mersa Sfax,Tunisia,Africa
+55.299,10.794,634,Nyborg,Denmark,Northern-Europe
+53.95,10.865,635,Lubeck-Travemunde,Germany,Western-Europe
+56.416,10.927,636,Grenaa Havn,Denmark,Northern-Europe
+59.188,10.95,637,Fredrikstad,Norway,Northern-Europe
+55.668,11.082,638,Kalundborg,Denmark,Northern-Europe
+33.483,11.118,639,Zarzis,Tunisia,Africa
+64.016,11.235,640,Steinkjer,Norway,Northern-Europe
+64.86,11.259,641,Rorvik,Norway,Northern-Europe
+63.744,11.336,642,Djupviken,Norway,Northern-Europe
+59.116,11.378,643,Halden,Norway,Northern-Europe
+58.351,11.422,644,Brofjorden,Sweden,Northern-Europe
+53.904,11.453,645,Wismar,Germany,Western-Europe
+42.107,11.773,646,Civitavecchia,Italy,Mediterranean
+58.089,11.813,647,Stenungsund,Sweden,Northern-Europe
+-4.781,11.84,648,Point Noire,Republic of Congo,Africa
+57.688,11.869,649,Goteborg,Sweden,Northern-Europe
+55.963,12.008,650,Freeriksvaerk,Denmark,Northern-Europe
+54.155,12.108,651,Rostock,Germany,Western-Europe
+-15.167,12.14,652,Namibe,Angola,Africa
+-5.397,12.196,653,Malongo,Angola,Africa
+55.459,12.198,654,Koge,Denmark,Northern-Europe
+57.114,12.237,655,Varberg,Sweden,Northern-Europe
+32.878,12.247,656,Marsa Sabratah,Libya,Africa
+44.464,12.265,657,Porto Di Corsini,Italy,Mediterranean
+45.333,12.279,658,Porto Di Malamocco,Italy,Mediterranean
+45.217,12.279,659,Porto Di Chioggia,Italy,Mediterranean
+45.437,12.297,660,Porto Di Lido-Venezia,Italy,Mediterranean
+-6.121,12.331,661,Soyo Angola LNG Terminal,Angola,Africa
+56.892,12.48,662,Falkenberg,Sweden,Northern-Europe
+55.69,12.623,663,Kobenhavn,Denmark,Northern-Europe
+66.025,12.65,664,Sandnessjoen,Norway,Northern-Europe
+32.8,12.698,665,Az Zawiya,Libya,Africa
+56.019,12.703,666,Helsingborg,Sweden,Northern-Europe
+56.661,12.844,667,Halmstad,Sweden,Northern-Europe
+55.628,13.018,668,Malmo,Sweden,Northern-Europe
+55.369,13.154,669,Trelleborg,Sweden,Northern-Europe
+32.906,13.202,670,Mina Tarabulus (Tripoli),Libya,Africa
+45.784,13.236,671,San Giogrio,Italy,Mediterranean
+-8.778,13.268,672,Luanda,Angola,Africa
+38.129,13.368,673,Porto Di Palermo,Italy,Mediterranean
+-5.839,13.438,674,Matadi,Democratic Republic of the Congo,Africa
+43.62,13.498,675,Ancona,Italy,Mediterranean
+45.789,13.545,676,Monfalcone,Italy,Mediterranean
+-12.338,13.571,677,Lobito,Angola,Africa
+54.482,13.591,678,Sassnitz,Germany,Western-Europe
+45.557,13.737,679,Koper,Slovenia,Mediterranean
+45.627,13.773,680,Trieste,Italy,Mediterranean
+66.81,13.935,681,Glomfjord,Norway,Northern-Europe
+66.307,14.098,682,Mo Inlet,Norway,Northern-Europe
+40.823,14.117,683,Pozzuoli,Italy,Mediterranean
+32.684,14.247,684,Khoms,Libya,Africa
+37.036,14.262,685,Gela,Italy,Mediterranean
+53.905,14.268,686,Swinoujscie,Poland,Eastern-Europe
+40.839,14.272,687,Napoli,Italy,Mediterranean
+55.928,14.323,688,Ahus,Sweden,Northern-Europe
+42.354,14.413,689,Ortona,Italy,Mediterranean
+45.325,14.438,690,Rijeka Luka,Croatia,Mediterranean
+-22.935,14.507,691,Walvis Bay,Namibia,Africa
+35.887,14.512,692,Valletta Harbors,Malta,Mediterranean
+45.22,14.536,693,Omisalj,Croatia,Mediterranean
+35.827,14.544,694,Marsaxlokk,Malta,Mediterranean
+45.283,14.552,695,Bakar,Croatia,Mediterranean
+56.032,14.581,696,Solvesborg,Sweden,Northern-Europe
+53.429,14.587,697,Szczecin,Poland,Eastern-Europe
+40.673,14.744,698,Salerno,Italy,Mediterranean
+56.152,14.808,699,Karlshamn,Sweden,Northern-Europe
+37.497,15.092,700,Catania,Italy,Mediterranean
+-26.637,15.161,701,Luderitz Bay,Namibia,Africa
+37.205,15.204,702,Augusta,Italy,Mediterranean
+32.358,15.229,703,Misratah,Libya,Africa
+38.214,15.264,704,Milazzo,Italy,Mediterranean
+67.362,15.584,705,Lakselv,Norway,Northern-Europe
+38.451,15.905,706,Gioia Tauro,Italy,Mediterranean
+58.613,16.231,707,Norrkoping,Sweden,Northern-Europe
+56.66,16.369,708,Kalmar,Sweden,Northern-Europe
+43.534,16.457,709,Split,Croatia,Mediterranean
+57.265,16.467,710,Oskarshamn,Sweden,Northern-Europe
+59.589,16.522,711,Vasteras,Sweden,Northern-Europe
+57.099,16.557,712,Stora Jatterson,Sweden,Northern-Europe
+41.136,16.862,713,Bari,Italy,Mediterranean
+58.666,17.124,714,Oxelosund,Sweden,Northern-Europe
+40.486,17.187,715,Taranto,Italy,Mediterranean
+60.691,17.222,716,Gavle,Sweden,Northern-Europe
+40.957,17.305,717,Monopoli,Italy,Mediterranean
+62.393,17.373,718,Sundsvall,Sweden,Northern-Europe
+60.652,17.399,719,Skutskar,Sweden,Northern-Europe
+68.432,17.401,720,Narvik,Norway,Northern-Europe
+43.042,17.428,721,Ploce,Croatia,Mediterranean
+59.171,17.661,722,Sodertalje,Sweden,Northern-Europe
+40.649,17.971,723,Brindisi,Italy,Mediterranean
+58.92,17.971,724,Nynashamn,Sweden,Northern-Europe
+-33.069,17.977,725,Saldanha Bay,South Africa,Africa
+69.22,18.078,726,Finnsnes,Norway,Northern-Europe
+59.328,18.105,727,Stockholm,Sweden,Northern-Europe
+-33.901,18.44,728,Cape Town,South Africa,Africa
+54.535,18.533,729,Gdynia,Poland,Eastern-Europe
+54.385,18.688,730,Gdansk,Poland,Eastern-Europe
+69.672,18.986,731,Tromso,Norway,Northern-Europe
+42.093,19.083,732,Bar,Montenegro,Mediterranean
+63.316,19.159,733,Husum,Sweden,Northern-Europe
+69.237,19.361,734,Markenes,Norway,Northern-Europe
+41.334,19.427,735,Durres,Albania,Mediterranean
+40.459,19.469,736,Vlores,Albania,Mediterranean
+30.415,19.594,737,Al Burayqah,Libya,Africa
+54.641,19.91,738,Baltiysk,Russia,Eastern-Europe
+32.108,20.05,739,Banghazi,Libya,Africa
+30.898,20.06,740,Ez Zueitina,Libya,Africa
+54.686,20.178,741,Izhevskoye,Russia,Eastern-Europe
+63.691,20.338,742,Umea Hamn,Sweden,Northern-Europe
+54.7,20.454,743,Kaliningrad,Russia,Eastern-Europe
+56.048,20.956,744,Butinge Oil Terminal,Lithuania,Eastern-Europe
+56.537,21,745,Liepaja,Latvia,Eastern-Europe
+55.685,21.127,746,Klaipeda,Lithuania,Eastern-Europe
+62.359,21.216,747,Kaskinen,Finland,Northern-Europe
+64.679,21.261,748,Skelleftehamn,Sweden,Northern-Europe
+61.614,21.439,749,Mantyluoto,Finland,Northern-Europe
+61.126,21.449,750,Rauma,Finland,Northern-Europe
+65.242,21.556,751,Pitea,Sweden,Northern-Europe
+63.082,21.557,752,Vaasa,Finland,Northern-Europe
+57.396,21.566,753,Ventspils,Latvia,Eastern-Europe
+38.239,21.726,754,Patrai,Greece,Mediterranean
+38.335,21.846,755,Aiyion,Greece,Mediterranean
+60.451,22.047,756,Naantali,Finland,Northern-Europe
+60.438,22.185,757,Furku,Finland,Northern-Europe
+65.537,22.282,758,Lulea,Sweden,Northern-Europe
+63.711,22.69,759,Jakobstad,Finland,Northern-Europe
+39.165,22.86,760,Tsingeli,Greece,Mediterranean
+40.635,22.908,761,Thessaloniki,Greece,Mediterranean
+59.816,22.933,762,Hanko,Finland,Northern-Europe
+39.354,22.959,763,Volos,Greece,Mediterranean
+63.859,23.03,764,Kokkala,Finland,Northern-Europe
+37.917,23.087,765,Oil terminal Agioi,Greece,Mediterranean
+38.037,23.526,766,Elevsis,Greece,Mediterranean
+38.029,23.592,767,Aspropirgos,Greece,Mediterranean
+37.95,23.606,768,Piraievs,Greece,Mediterranean
+70.649,23.642,769,Hammerfest,Norway,Northern-Europe
+60.01,23.942,770,Inkoo,Finland,Northern-Europe
+32.07,23.989,771,Mersa Tobruq,Libya,Africa
+38.377,24.054,772,Ormos Aliveriou,Greece,Mediterranean
+59.346,24.057,773,Paldiski,Estonia,Eastern-Europe
+35.521,24.064,774,Soudha,Greece,Mediterranean
+57.021,24.081,775,Riga,Latvia,Eastern-Europe
+65.754,24.159,776,Torina,Finland,Northern-Europe
+64.658,24.405,777,Raahe,Finland,Northern-Europe
+40.917,24.41,778,Kavala,Greece,Mediterranean
+58.381,24.479,779,Parnu,Estonia,Eastern-Europe
+35.37,24.481,780,Rethimnon,Greece,Mediterranean
+65.663,24.523,781,Kemi,Finland,Northern-Europe
+59.466,24.743,782,Talinn,Estonia,Eastern-Europe
+59.497,24.97,783,Muuga-Port of Talinn,Estonia,Eastern-Europe
+60.188,25.035,784,Helsinki,Finland,Northern-Europe
+35.345,25.093,785,Iraklion,Greece,Mediterranean
+65.005,25.407,786,Oulo,Finland,Northern-Europe
+60.304,25.558,787,Porvoo,Finland,Northern-Europe
+-33.887,25.658,788,Port Elizabeth,South Africa,Africa
+59.52,26.545,789,Kunda,Estonia,Eastern-Europe
+38.764,26.915,790,Nemrut Limani Bay,Turkey,Mediterranean
+60.454,26.925,791,Kotka,Finland,Northern-Europe
+38.819,26.951,792,Aliaga,Turkey,Mediterranean
+38.442,27.155,793,Izmir,Turkey,Mediterranean
+60.532,27.161,794,Hamina,Finland,Northern-Europe
+40.412,27.162,795,Karabiga,Turkey,Mediterranean
+40.929,27.488,796,Tekirdag,Turkey,Mediterranean
+42.464,27.492,797,Burgas,Bulgaria,Eastern-Europe
+37.183,27.59,798,Gulluk,Turkey,Mediterranean
+59.423,27.734,799,Port of Sillam�e,Estonia,Eastern-Europe
+43.195,27.904,800,Varna,Bulgaria,Eastern-Europe
+62.315,27.905,801,Varkaus,Finland,Northern-Europe
+-33.026,27.913,802,East London,South Africa,Africa
+40.369,27.945,803,Bandirma,Turkey,Mediterranean
+40.987,27.967,804,Botas Natural Gas Terminal,Turkey,Mediterranean
+61.068,28.241,805,Kaukas,Finland,Northern-Europe
+59.706,28.405,806,Reka Luga,Russia,Eastern-Europe
+61.132,28.459,807,Joutseno,Finland,Northern-Europe
+60.602,28.561,808,Gavan Vysotsk,Russia,Eastern-Europe
+44.122,28.664,809,Constanta,Romania,Eastern-Europe
+44.334,28.676,810,Midia,Romania,Eastern-Europe
+60.331,28.713,811,Primorsk,Russia,Eastern-Europe
+60.71,28.73,812,Vyborg,Russia,Eastern-Europe
+61.233,28.804,813,Imatra,Finland,Northern-Europe
+41.034,28.929,814,Istanbul,Turkey,Mediterranean
+41.001,29.015,815,Haydarpasa,Turkey,Mediterranean
+40.414,29.104,816,Gemlik,Turkey,Mediterranean
+40.693,29.416,817,Yalova,Turkey,Mediterranean
+40.773,29.559,818,Kaba Burnu,Turkey,Mediterranean
+62.582,29.75,819,Joensuu,Finland,Northern-Europe
+40.762,29.792,820,Derince Burnu,Turkey,Mediterranean
+31.164,29.836,821,Al Iskandariyh (Alexandria),Egypt,Africa
+40.723,29.867,822,Golcuk Burnu,Turkey,Mediterranean
+59.9,30.221,823,Sankt-Peterburg,Russia,Eastern-Europe
+36.821,30.608,824,Antalya,Turkey,Mediterranean
+46.335,30.655,825,Illichivsk,Ukraine,Eastern-Europe
+46.5,30.747,826,Odesa,Ukraine,Eastern-Europe
+46.632,31.014,827,Yuzhnyy,Ukraine,Eastern-Europe
+-29.881,31.03,828,Durban,South Africa,Africa
+41.277,31.411,829,Eregli,Turkey,Eastern-Europe
+31.47,31.763,830,Damietta,Egypt,Africa
+41.488,31.844,831,Zonguldak,Turkey,Eastern-Europe
+46.937,31.996,832,Mykolayiv,Ukraine,Eastern-Europe
+-28.803,32.059,833,Richards Bay,South Africa,Africa
+31.252,32.311,834,Bur Said (Port Said),Egypt,Africa
+29.621,32.362,835,North Ain Sukhna Port,Egypt,Africa
+67.136,32.409,836,Kandalaksha,Russia,Eastern-Europe
+29.896,32.478,837,El-Adabiya,Egypt,Africa
+-25.97,32.539,838,Maputo,Mozambique,Africa
+29.947,32.55,839,As Suways,Egypt,Africa
+34.648,33.019,840,Limassol,Cyprus,Mediterranean
+69.093,33.302,841,Murmansk,Russia,Eastern-Europe
+34.719,33.319,842,Dhekelia,Cyprus,Mediterranean
+35.343,33.334,843,Kyrenia,Turkey,Mediterranean
+34.936,33.647,844,Larnaca,Cyprus,Mediterranean
+35.232,33.934,845,Famagusta,Turkey,Mediterranean
+26.712,33.94,846,Bur Safago,Egypt,Africa
+31.654,34.517,847,Ashqelon,Israel,Middle-East
+36.795,34.645,848,Mersin,Turkey,Mediterranean
+31.825,34.651,849,Ashdod,Israel,Middle-East
+-19.825,34.835,850,Beira,Mozambique,Africa
+29.452,34.981,851,Al Aqabah,Jordan,Middle-East
+32.822,35.021,852,Haifa,Israel,Middle-East
+33.573,35.373,853,Sayda,Lebanon,Middle-East
+27.561,35.544,854,Duba,Saudi Arabia,Middle-East
+33.916,35.559,855,Bayrut,Lebanon,Middle-East
+27.321,35.737,856,Duba Bulk Plant Tanker Terminal,Saudi Arabia,Middle-East
+35.53,35.766,857,Al Ladhiqiyah,Syria,Middle-East
+34.457,35.829,858,Tarabulus,Lebanon,Middle-East
+36.854,35.922,859,Botas,Turkey,Mediterranean
+36.915,35.99,860,Toros Gubre,Turkey,Mediterranean
+36.839,36.149,861,Delta Terminal,Turkey,Mediterranean
+36.606,36.187,862,Iskenderun,Turkey,Mediterranean
+36.726,36.205,863,Yakacik,Turkey,Mediterranean
+41.277,36.4,864,Samsun,Turkey,Eastern-Europe
+45.319,36.462,865,Kerch,Ukraine,Eastern-Europe
+45.125,36.657,866,Port Taman,Russia,Eastern-Europe
+45.338,36.668,867,Kavkaz Oil Terminal,Russia,Eastern-Europe
+46.748,36.778,868,Bedyansk,Ukraine,Eastern-Europe
+-18.218,36.8,869,Quelimane,Mozambique,Africa
+19.601,37.235,870,Port Sudan,Sudan,Africa
+19.121,37.351,871,Sawakin Harbor,Sudan,Africa
+45.329,37.372,872,Temryuk,Russia,Eastern-Europe
+47.054,37.504,873,Mariupol,Ukraine,Eastern-Europe
+44.695,37.775,874,Novorossiysk,Russia,Eastern-Europe
+24.076,38.066,875,Yanbu,Saudi Arabia,Middle-East
+46.734,38.277,876,Yeysk,Russia,Eastern-Europe
+23.899,38.326,877,King Fahd Port,Saudi Arabia,Middle-East
+47.201,38.95,878,Taganrog,Russia,Eastern-Europe
+22.63,39.045,879,Rabigh,Saudi Arabia,Middle-East
+44.092,39.067,880,Tuapse,Russia,Eastern-Europe
+-5.066,39.106,881,Tanga,Tanzania,Africa
+21.453,39.16,882,Jiddah,Saudi Arabia,Middle-East
+-6.147,39.201,883,Zanzibar,Tanzania,Africa
+-6.834,39.296,884,Dar Es Salaam,Tanzania,Africa
+15.601,39.462,885,Mitsiwa Harbor,Eritrea,Africa
+20.645,39.534,886,Jiddah Oil,Saudi Arabia,Middle-East
+-4.06,39.637,887,Mombasa,Kenya,Africa
+47.208,39.739,888,Rostov-Na-Donu,Russia,Eastern-Europe
+-3.638,39.853,889,Kilifi,Kenya,Africa
+40.981,39.865,890,Trabzon,Turkey,Eastern-Europe
+-12.971,40.483,891,Pemba,Mozambique,Africa
+64.548,40.564,892,Arkhangels'k,Russia,Northern-Europe
+-14.546,40.664,893,Nacala,Mozambique,Africa
+-2.203,40.936,894,Lamu,Kenya,Africa
+41.408,41.435,895,Hopa,Turkey,Eastern-Europe
+42.274,41.639,896,Kulevi Oil Terminal,Georgia,Eastern-Europe
+41.654,41.653,897,Batumi,Georgia,Eastern-Europe
+42.153,41.659,898,Poti,Georgia,Eastern-Europe
+14.861,42.93,899,Al Ahmadi,Yemen,Middle-East
+11.607,43.105,900,Djibouti,Djibouti,Africa
+-11.704,43.247,901,Moroni,Comoros,Africa
+-23.356,43.646,902,Toliara,Madagascar,Africa
+-12.145,44.405,903,Moutsamoudu,Comoros,Africa
+12.804,44.954,904,Aden,Yemen,Middle-East
+10.443,44.997,905,Berbera,Somalia,Africa
+-12.718,45.163,906,Port de Longoni,Mayotte,Africa
+-12.777,45.266,907,Dzaoudzi,Mayotte,Africa
+2.025,45.338,908,Muqdisho,Somalia,Africa
+-15.712,46.303,909,Mahajanga,Madagascar,Africa
+-25.066,46.97,910,Faradofay,Madagascar,Africa
+43.001,47.487,911,Makhachkala Port,Russia,Eastern-Europe
+30.525,47.841,912,Al Basrah,Iraq,Middle-East
+30.101,47.929,913,Umm Qasr,Iraq,Middle-East
+29.355,47.933,914,Al Kuwayt,Kuwait,Middle-East
+46.387,48.021,915,Astrakhan Port,Russia,Eastern-Europe
+29.073,48.158,916,Mina Al Ahmadi,Kuwait,Middle-East
+30.428,48.158,917,Khorramshahr,Iran,Middle-East
+-13.407,48.213,918,Andoany,Madagascar,Africa
+28.415,48.524,919,Ras Al Khafji,Saudi Arabia,Middle-East
+27.934,48.756,920,Ras Al Mishab,Saudi Arabia,Middle-East
+30.452,49.118,921,Bandar Khomeyni,Iran,Middle-East
+14.521,49.153,922,Al Mukalla,Yemen,Middle-East
+11.292,49.178,923,Boosaaso,Somalia,Africa
+27.545,49.182,924,Ras Al-Khair,Saudi Arabia,Middle-East
+-12.269,49.288,925,Antisranana,Madagascar,Africa
+-18.155,49.425,926,Toamasina,Madagascar,Africa
+37.472,49.518,927,Anzali Port,Iran,Asia
+40.178,49.597,928,Baku Port,Azerbaijan,Asia
+27.05,49.686,929,Al Jubayl,Saudi Arabia,Middle-East
+26.876,50.003,930,Ju Aymah LPG Terminal,Saudi Arabia,Middle-East
+26.667,50.152,931,Ras Tannurah,Saudi Arabia,Middle-East
+26.5,50.204,932,Damman,Saudi Arabia,Middle-East
+26.178,50.657,933,Sitrah,Bahrain,Middle-East
+26.255,50.679,934,Khalifa Bin Salman,Bahrain,Middle-East
+28.993,50.839,935,Bushehr,Iran,Middle-East
+26.147,51.208,936,Ruwais Port,Qatar,Middle-East
+43.372,51.451,937,Aktau Port,Kazakhstan,Asia
+36.676,51.511,938,Nowshahr Port,Iran,Asia
+24.969,51.609,939,Umm Said,Qatar,Middle-East
+25.908,51.614,940,Ras Laffan,Qatar,Middle-East
+27.709,52.246,941,Bamdar-E Pars Terminal,Iran,Middle-East
+24.157,52.827,942,Jabal Az Zannah-Ruways,United Arab Emirates,Middle-East
+36.852,53.366,943,Amirabad Port,Iran,Asia
+39.187,53.862,944,Turkmenbashi Port,Turkmenistan,Asia
+16.939,54.008,945,Mina Raysut,Oman,Middle-East
+24.508,54.495,946,Abu Zaby,United Arab Emirates,Middle-East
+25.007,55.055,947,Mina Jabal Ali,United Arab Emirates,Middle-East
+25.276,55.296,948,Dubayy,United Arab Emirates,Middle-East
+-20.926,55.305,949,Port Est,Reunion,Africa
+25.368,55.382,950,Ash Shariqah,United Arab Emirates,Middle-East
+25.423,55.452,951,Ajman,United Arab Emirates,Middle-East
+-4.622,55.463,952,Victoria,Seychelles,Africa
+25.473,55.497,953,Al Hamriyah LPG Terminal,United Arab Emirates,Middle-East
+25.587,55.582,954,Umm Al Qaywayn,United Arab Emirates,Middle-East
+25.964,56.052,955,Mina Saqr,United Arab Emirates,Middle-East
+27.11,56.072,956,Bamdar-E Shahid Reajie,Iran,Middle-East
+27.152,56.225,957,Bandar Abbas,Iran,Middle-East
+25.148,56.364,958,Fujayrah Harbor,United Arab Emirates,Middle-East
+25.354,56.369,959,Khawr Fakkan,United Arab Emirates,Middle-East
+24.512,56.624,960,Port of Sohar,Oman,Middle-East
+-20.151,57.491,961,Port Louis,Mauritius,Africa
+19.666,57.718,962,Port of Duqm,Oman,Middle-East
+23.627,58.567,963,Mina Qabus,Oman,Middle-East
+22.667,59.418,964,Qalhat LNG Terminal,Oman,Middle-East
+25.305,60.606,965,Chan Bahar,Iran,Middle-East
+-19.679,63.422,966,Port Mathurin,Mauritius,Africa
+24.816,66.985,967,Karachi,Pakistan,Asia
+24.78,67.337,968,Muhamamad Bin Qasim,Pakistan,Asia
+22.752,69.646,969,Mundra,India,Asia
+22.439,69.768,970,Sikka,India,Asia
+23.015,70.225,971,Kandla,India,Asia
+22.954,70.447,972,Navlakhi,India,Asia
+20.89,71.444,973,Pipavav Bandar,India,Asia
+21.697,72.411,974,Dahej,India,Asia
+21.106,72.684,975,Magdalla,India,Asia
+18.88,72.946,976,Mumbai (bonbay),India,Asia
+17.296,73.217,977,JSW Jaigad Port Limited,India,Asia
+4.2,73.491,978,Male,Maldives,Asia
+15.41,73.807,979,Marmagao,India,Asia
+12.926,74.817,980,New Mangalore,India,Asia
+9.964,76.259,981,Kochi (Chochin),India,Asia
+8.777,78.19,982,Tuticorin,India,Asia
+6.946,79.838,983,Colombo,Sri Lanka,Asia
+10.839,79.856,984,Karaikal Port,India,Asia
+14.25,80.125,985,Krishnapatnam Port,India,Asia
+13.104,80.301,986,Chennai (Madras),India,Asia
+13.264,80.347,987,Kamarajar Port,India,Asia
+6.126,81.099,988,Magam Ruhunupura Mahinda Rajapaksa Port,Sri Lanka,Asia
+8.551,81.214,989,Trincomalee Harbor,Sri Lanka,Asia
+16.968,82.297,990,Kakinada Bay,India,Asia
+17.668,83.27,991,Vishakhapatnam,India,Asia
+69.407,86.164,992,Dudinka,Russia,Eastern-Europe
+20.276,86.673,993,Paradip,India,Asia
+20.821,86.964,994,Dhamara Port,India,Asia
+22.02,88.077,995,Haldia Port,India,Asia
+22.543,88.304,996,Calcutta,India,Asia
+22.495,89.586,997,Mongla,Bangladesh,Asia
+23.662,90.452,998,Dhaka,Bangladesh,Asia
+22.285,91.822,999,Chittagong,Bangladesh,Asia
+5.451,95.242,1000,Lafarge,Indonesia,Asia
+5.598,95.524,1001,Uleelheue,Indonesia,Asia
+16.652,96.231,1002,Rangoon,Myanmar,Asia
+5.241,97.039,1003,Blanglancang,Indonesia,Asia
+7.823,98.372,1004,Phuket,Thailand,Asia
+3.791,98.705,1005,Belawan,Indonesia,Asia
+1.72,98.784,1006,Sibolga,Indonesia,Asia
+9.182,99.374,1007,Tha Thong,Thailand,Asia
+5.392,100.355,1008,Pulau Pinang,Malaysia,Asia
+-1.03,100.397,1009,Teluk Bayur,Indonesia,Asia
+7.235,100.57,1010,Songkhla Harbor,Thailand,Asia
+13.623,100.57,1011,Bangkok,Thailand,Asia
+4.208,100.623,1012,Lumut,Malaysia,Asia
+13.096,100.901,1013,Si Racha,Thailand,Asia
+12.661,101.152,1014,Map Ta Phut,Thailand,Asia
+12.638,101.306,1015,Rayong TPI Terminal,Thailand,Asia
+2.969,101.338,1016,Port Klang,Malaysia,Asia
+1.703,101.502,1017,Dumai,Indonesia,Asia
+2.567,101.768,1018,Port Dickson,Malaysia,Asia
+2.25,102.126,1019,Pelabuhan Sungai Udang,Malaysia,Asia
+-3.906,102.297,1020,Pulau Baai,Indonesia,Asia
+3.979,103.426,1021,Kuantan New Port,Malaysia,Asia
+4.583,103.463,1022,Kirteh Oil Terminal,Malaysia,Asia
+4.249,103.465,1023,Kemaman Harbor,Malaysia,Asia
+10.674,103.523,1024,Kampong Saom,Cambodia,Asia
+1.356,103.546,1025,Tanjung Pelepas,Malaysia,Asia
+1.257,103.726,1026,Singapore,Singapore,Asia
+1.097,103.937,1027,Sekupang,Indonesia,Asia
+1.446,103.947,1028,Johor,Malaysia,Asia
+1.347,104.03,1029,Serangoon Harbor,Singapore,Asia
+1.055,104.199,1030,Tanjunguban,Indonesia,Asia
+-2.949,104.842,1031,Palembang,Indonesia,Asia
+-5.503,105.309,1032,Panjang,Indonesia,Asia
+18.842,105.719,1033,Nghe Tinh,Vietnam,Asia
+19.254,105.787,1034,Nghe Tinh,Vietnam,Asia
+-6.016,105.953,1035,Banten,Indonesia,Asia
+-5.964,106.002,1036,Tanjung Geren,Indonesia,Asia
+-5.903,106.019,1037,Tanjung Sekong,Indonesia,Asia
+-5.942,106.1,1038,Merak Mas Terminal,Indonesia,Asia
+-6.951,106.441,1039,PelabuhanRatuCoalPowerPlant,Indonesia,Asia
+20.865,106.717,1040,Hai Phong,Vietnam,Asia
+10.634,106.81,1041,Thanh Ho Chi Minh,Vietnam,Asia
+-6.102,106.895,1042,Jakarta,Indonesia,Asia
+10.59,107.017,1043,Phu My,Vietnam,Asia
+20.977,107.056,1044,Hon Gai,Vietnam,Asia
+10.397,107.098,1045,Vung Tau,Vietnam,Asia
+16.109,108.225,1046,Da Nang,Vietnam,Asia
+21.594,108.364,1047,Fang-Cheng,China,Asia
+-6.737,108.597,1048,Cirebon,Indonesia,Asia
+21.689,108.628,1049,Qingzhou,China,Asia
+19.089,108.634,1050,Basuo,China,Asia
+15.407,108.792,1051,Cang Doosan Vina,Vietnam,Asia
+-7.733,109.002,1052,Cilacap,Indonesia,Asia
+21.456,109.087,1053,Beihai,China,Asia
+19.761,109.182,1054,Yangpu,China,Asia
+13.781,109.249,1055,Qui Nhon,Vietnam,Asia
+0.006,109.272,1056,Pontianak,Indonesia,Asia
+21.511,109.546,1057,Guangxi Beibu Gulf Port,China,Asia
+19.961,110.031,1058,Chiwan,China,Asia
+20.034,110.289,1059,Haikou,China,Asia
+-6.94,110.424,1060,Semarang,Indonesia,Asia
+21.169,110.431,1061,Zhanjiang,China,Asia
+1.592,110.448,1062,Kuching,Malaysia,Asia
+21.48,111.083,1063,Shui Dong,China,Asia
+2.15,111.338,1064,Tg Mani,Malaysia,Asia
+21.694,111.824,1065,Guangdong Yangjiang Port,China,Asia
+-6.762,111.909,1066,Tuban,Indonesia,Asia
+-7.144,112.66,1067,Gresik,Indonesia,Asia
+-7.2,112.726,1068,Surabaya,Indonesia,Asia
+-2.636,112.959,1069,Sampit,Indonesia,Asia
+3.257,113.065,1070,Bintulu Port,Malaysia,Asia
+23.071,113.364,1071,Guangzhou,China,Asia
+-7.69,113.392,1072,Probolinggo,Indonesia,Asia
+22.17,113.562,1073,Macau,Macau,Asia
+22.61,113.831,1074,Shekou,China,Asia
+22.35,114.148,1075,Hong Kong,Hong Kong,Asia
+-21.897,114.175,1076,Point Murat,Australia,Australia
+4.587,114.189,1077,Kuala Belait,Brunei,Asia
+22.587,114.313,1078,Yiantian,China,Asia
+-8.138,114.401,1079,Pelabuhan Tanjung Wangi,Indonesia,Asia
+4.71,114.439,1080,Lumut,Brunei,Asia
+30.595,114.46,1081,Hankow,China,Asia
+-3.296,114.548,1082,Banjarmasin,Indonesia,Asia
+22.74,114.612,1083,Huizhou,China,Asia
+-28.776,114.613,1084,Geraldton,Australia,Australia
+22.75,115.042,1085,Haifeng power,China,Asia
+-21.657,115.062,1086,Onslow,Australia,Australia
+5.014,115.104,1087,Muara Harbor,Brunei,Asia
+-8.746,115.213,1088,Benoa,Indonesia,Asia
+5.253,115.242,1089,Victoria,Malaysia,Asia
+-20.802,115.478,1090,Gorgon LNG,Australia,Australia
+-33.307,115.662,1091,Bunbury,Australia,Australia
+-32.147,115.728,1092,Fremantle,Australia,Australia
+-8.65,116.071,1093,Ampenan,Indonesia,Asia
+5.997,116.078,1094,Kota Kinabalu,Malaysia,Asia
+6.082,116.12,1095,Sapangar Bay,Malaysia,Asia
+-3.282,116.131,1096,Stagen,Indonesia,Asia
+-1.82,116.156,1097,Tanah Merah,Indonesia,Asia
+-3.232,116.247,1098,Kota Baru,Indonesia,Asia
+23.374,116.588,1099,Shan T Ou,China,Asia
+-20.617,116.722,1100,Dampier,Australia,Australia
+-8.899,116.745,1101,Tanjung Benete,Indonesia,Asia
+-1.195,116.772,1102,Balikpapa,Indonesia,Asia
+23.566,117.103,1103,Chaozhou,China,Asia
+-20.584,117.193,1104,Port Walcott,Australia,Australia
+-0.558,117.217,1105,Samarinda,Indonesia,Asia
+0.094,117.496,1106,Bontang LNG Terminal,Indonesia,Asia
+2.155,117.498,1107,Tanjungredeb,Indonesia,Asia
+3.315,117.565,1108,Lingkas,Indonesia,Asia
+0.532,117.654,1109,Tanjung Sangata,Indonesia,Asia
+38.882,117.695,1110,Tianjin Xin Gang,China,Asia
+38.342,117.879,1111,Bohai Bay,China,Asia
+-35.041,117.897,1112,Albany,Australia,Australia
+38.022,118.03,1113,Sundaomen Wuz,China,Asia
+5.798,118.059,1114,Pelabuhan Sansakan,Malaysia,Asia
+24.461,118.079,1115,Xiamen,China,Asia
+5.016,118.362,1116,Lahad Datu,Malaysia,Asia
+24.657,118.44,1117,Shijing Longxiang,China,Asia
+39.022,118.519,1118,Shougang Jingtang,China,Asia
+-20.319,118.574,1119,Port Hedland,Australia,Australia
+24.851,118.712,1120,Quanzhou,China,Asia
+9.737,118.745,1121,Puerto Princesa,Philippines,Asia
+38.086,118.958,1122,Harbor Yeweiju,China,Asia
+25.127,118.983,1123,Xiuyu,China,Asia
+39.208,119.03,1124,Tangshan (Jingtang),China,Asia
+37.248,119.052,1125,Weifang Port,China,Asia
+35.101,119.337,1126,Lanqiao Port,China,Asia
+-5.108,119.41,1127,Ujung Pandang,Indonesia,Asia
+34.744,119.447,1128,Lianyungang,China,Asia
+25.771,119.449,1129,Fuzhou,China,Asia
+-4.818,119.482,1130,PLTU Semen Tonasa,Indonesia,Asia
+35.341,119.526,1131,Rizhao,China,Asia
+-4.004,119.624,1132,Parepare,Indonesia,Asia
+39.923,119.647,1133,Qinhuangdao,China,Asia
+26.589,119.663,1134,Xiagong,China,Asia
+35.6,119.797,1135,Qingdao Port,China,Asia
+32.316,119.816,1136,Gaogang,China,Asia
+-0.746,119.817,1137,Donggala,Indonesia,Asia
+37.417,119.952,1138,Sanshandaocun,China,Asia
+31.963,120,1139,Changzhou,China,Asia
+31.939,120.155,1140,Jiangyin,China,Asia
+23.788,120.191,1141,Mailiao,Taiwan,Asia
+-9.636,120.254,1142,Waingapu,Indonesia,Asia
+36.036,120.267,1143,Qingdao Gang,China,Asia
+37.657,120.276,1144,Longkou Gang,China,Asia
+14.808,120.284,1145,Subio Bay,Philippines,Asia
+22.572,120.309,1146,Kao Hsiung,Taiwan,Asia
+31.974,120.43,1147,Zhangjiangang,China,Asia
+24.254,120.502,1148,Tai-Chung Kang,Taiwan,Asia
+32.001,120.618,1149,Qiwei,China,Asia
+14.574,120.795,1150,Manila,Philippines,Asia
+37.822,120.833,1151,Penglai,China,Asia
+31.978,120.846,1152,Nantong,China,Asia
+27.945,120.898,1153,Wenzhou,China,Asia
+31.761,120.957,1154,Changshu,China,Asia
+13.737,121.012,1155,Batangas City,Philippines,Asia
+40.76,121.018,1156,Jinzhou Wan,China,Asia
+37.715,121.093,1157,Zhouliwang,China,Asia
+30.613,121.106,1158,Zhapu,China,Asia
+31.687,121.145,1159,Taicang,China,Asia
+39.517,121.286,1160,Gourd Shanzui,China,Asia
+25.157,121.376,1161,Tan-Shui,Taiwan,Asia
+37.511,121.46,1162,Yantai,China,Asia
+28.682,121.47,1163,Haimen,China,Asia
+-4.178,121.598,1164,Pomalaa,Indonesia,Asia
+23.983,121.632,1165,Hua-Lien Kang,Taiwan,Asia
+-8.851,121.654,1166,Ende,Indonesia,Asia
+31.082,121.734,1167,Shanghai,China,Asia
+25.147,121.752,1168,Chi-Lung,Taiwan,Asia
+38.986,121.756,1169,Dalian,China,Asia
+29.893,121.883,1170,Ningbo,China,Asia
+-33.87,121.896,1171,Esperance,Australia,Australia
+6.909,122.059,1172,Zamboanga,Philippines,Asia
+40.284,122.061,1173,Bayuquan,China,Asia
+40.694,122.07,1174,Yingkou,China,Asia
+30.051,122.139,1175,Zhoushan,China,Asia
+-2.813,122.163,1176,Indonesia Morowali Industrial Park,Indonesia,Asia
+37.453,122.214,1177,Weihai,China,Asia
+-18.002,122.218,1178,Broome,Australia,Australia
+-8.624,122.237,1179,Maumere,Indonesia,Asia
+36.876,122.397,1180,Shidao Newport,China,Asia
+-5.49,122.586,1181,Baubau,Indonesia,Asia
+-3.984,122.607,1182,Kendari,Indonesia,Asia
+37.403,122.665,1183,Longyan Port,China,Asia
+0.503,123.062,1184,Gorontalo,Indonesia,Asia
+-10.197,123.527,1185,Kupang,Indonesia,Asia
+-16.141,123.741,1186,Koolan,Australia,Australia
+8.33,123.861,1187,Jimenez,Philippines,Asia
+10.298,123.922,1188,Cebu,Philippines,Asia
+39.799,124.134,1189,Dandong,China,Asia
+8.262,124.241,1190,Iligan,Philippines,Asia
+11.006,124.602,1191,Ormoc,Philippines,Asia
+8.49,124.685,1192,Cagatan De Oro,Philippines,Asia
+8.517,124.746,1193,Buco,Philippines,Asia
+8.601,124.76,1194,Villanueva,Philippines,Asia
+-8.987,124.869,1195,Atapupu,Indonesia,Asia
+6.067,125.155,1196,General Santos,Philippines,Asia
+1.44,125.186,1197,Bitung,Indonesia,Asia
+8.981,125.335,1198,Nasipit Port,Philippines,Asia
+9.781,125.5,1199,Surigao City,Philippines,Asia
+9.228,125.523,1200,Butuan City,Philippines,Asia
+-8.548,125.565,1201,Dili,Timor-Leste,Oceania
+7.221,125.668,1202,Davao,Philippines,Asia
+-8.529,125.689,1203,Hera,Timor-Leste,Oceania
+9.472,125.861,1204,Masao,Philippines,Asia
+37.027,126.421,1205,Daesan Hang,South-Korea,Asia
+37.362,126.459,1206,Inchon,South-Korea,Asia
+35.986,126.618,1207,Kunsan,South Korea,Asia
+36.978,126.796,1208,Pyeongtaek Hang,South-Korea,Asia
+34.884,127.714,1209,Gwangyang Hang,South Korea,Asia
+-3.678,128.173,1210,Ambon,Indonesia,Asia
+35.184,128.591,1211,Masan,South-Korea,Asia
+35.078,128.941,1212,Pusan,South Korea,Asia
+37.495,129.138,1213,Tonghae,South Korea,Asia
+35.474,129.381,1214,Ulsan,South Korea,Asia
+36.033,129.403,1215,Pohang,South Korea,Asia
+32.709,129.834,1216,Nagasaki,Japan,Asia
+33.478,129.954,1217,Karatsu,Japan,Asia
+33.63,130.385,1218,Hakata,Japan,Asia
+31.533,130.546,1219,Kagoshima Ko,Japan,Asia
+32.519,130.549,1220,Yatsushiro Ko,Japan,Asia
+31.388,130.551,1221,Kiire,Japan,Asia
+33.904,130.805,1222,Wakamatsu Ko,Japan,Asia
+-12.489,130.868,1223,Darwin,Australia,Australia
+33.824,131.005,1224,Kanda,Japan,Asia
+-1.319,131.022,1225,Kasim Terminal,Indonesia,Asia
+31.455,131.102,1226,Shibushi Wan,Japan,Asia
+33.969,131.165,1227,Onodo,Japan,Asia
+33.937,131.225,1228,Ube Ko,Japan,Asia
+-0.878,131.253,1229,Tg. Sorong,Indonesia,Asia
+34.019,131.578,1230,Hofu,Japan,Asia
+32.504,131.676,1231,Hososhima Ko,Japan,Asia
+33.261,131.69,1232,Oita Ko,Japan,Asia
+34.037,131.776,1233,Tokuyama,Japan,Asia
+33.085,131.864,1234,Tsukumi Ko,Japan,Asia
+33.996,131.869,1235,Kudamatsu,Japan,Asia
+33.255,131.871,1236,Saganoseki Ko,Japan,Asia
+43.093,131.905,1237,Vladivostok,Russia,Eastern-Europe
+34.823,131.997,1238,Hamada Ko,Japan,Asia
+34.182,132.24,1239,Iwakuni Ko,Japan,Asia
+33.455,132.412,1240,Yawatahama,Japan,Asia
+34.346,132.452,1241,Hiroshima,Japan,Asia
+33.225,132.55,1242,Uwajima Ko,Japan,Asia
+34.225,132.573,1243,Kure,Japan,Asia
+33.81,132.695,1244,Matsuyama,Japan,Asia
+34.054,132.859,1245,Kikuma Ko,Japan,Asia
+42.804,132.896,1246,Nakhodka,Russia,Eastern-Europe
+34.056,133.025,1247,Imabari Ko,Japan,Asia
+42.746,133.074,1248,Vostochnyy,Russia,Eastern-Europe
+-2.436,133.122,1249,LNG Tangguh,Indonesia,Asia
+34.411,133.221,1250,Onomichi-Itozaki,Japan,Asia
+33.953,133.223,1251,Niihama,Japan,Asia
+35.539,133.259,1252,Sakai Ko,Japan,Asia
+33.391,133.289,1253,Susaki Ko,Japan,Asia
+34.464,133.445,1254,Fukuyama,Japan,Asia
+34.005,133.552,1255,Mishima-Kawanoe Ko,Japan,Asia
+33.531,133.591,1256,Kochi Ko,Japan,Asia
+-32.147,133.649,1257,Thevenard,Australia,Australia
+34.234,133.672,1258,Takuma,Japan,Asia
+34.486,133.727,1259,Mizushima Ko,Japan,Asia
+34.296,133.773,1260,Marugame Ko,Japan,Asia
+34.346,133.864,1261,Sakaide Ko,Japan,Asia
+34.58,133.993,1262,Uno Ko,Japan,Asia
+-0.921,134.04,1263,Manokwari Road,Indonesia,Asia
+34.357,134.066,1264,Takamatsu,Japan,Asia
+34.738,134.376,1265,Ako,Japan,Asia
+7.332,134.455,1266,Malakal Harbor,Palau,Oceania
+34.04,134.598,1267,Komatsushima,Japan,Asia
+34.773,134.642,1268,Himeji,Japan,Asia
+33.865,134.66,1269,Tachibana,Japan,Asia
+34.725,134.824,1270,Higashi-Harima,Japan,Asia
+34.182,135.133,1271,Wakayama-Shimotsu Ko,Japan,Asia
+34.665,135.22,1272,Kobe,Japan,Asia
+35.486,135.341,1273,Maizuro Ko,Japan,Asia
+34.458,135.345,1274,Hannan Ko,Japan,Asia
+34.703,135.375,1275,Amagasaki,Japan,Asia
+34.556,135.422,1276,Sakai-Senboku,Japan,Asia
+34.646,135.438,1277,Osaka,Japan,Asia
+-34.711,135.879,1278,Port Lincoln,Australia,Australia
+35.672,136.069,1279,Tsuruga Ko,Japan,Asia
+36.19,136.119,1280,Fukui Ko,Japan,Asia
+-13.858,136.419,1281,Milner Bay,Australia,Australia
+34.648,136.542,1282,Matsusaka,Japan,Asia
+36.616,136.613,1283,Kanazawa,Japan,Asia
+34.974,136.659,1284,Yokkaichi,Japan,Asia
+-12.192,136.7,1285,Gove,Australia,Australia
+-4.829,136.794,1286,Amamapare,Indonesia,Asia
+35.029,136.839,1287,Nagoya Ko,Japan,Asia
+34.862,136.959,1288,Kinuura Ko,Japan,Asia
+37.065,136.98,1289,Nanao Ko,Japan,Asia
+36.776,137.144,1290,Fushiki-Toyama,Japan,Asia
+34.71,137.297,1291,Mikawa,Japan,Asia
+-33.014,137.592,1292,Whyalla,Australia,Australia
+-33.928,137.618,1293,Wallaroo,Australia,Australia
+-33.009,137.763,1294,Port Bonython,Australia,Australia
+-35.022,137.763,1295,Port Giles,Australia,Australia
+-34.961,137.775,1296,Klein Point,Australia,Australia
+37.045,137.846,1297,Homikawa,Japan,Asia
+-33.182,138.014,1298,Port Pirie,Australia,Australia
+9.515,138.129,1299,Colonia,Micronesia,Oceania
+37.202,138.267,1300,Naoetsu Ko,Japan,Asia
+35.021,138.509,1301,Shimizu Ko,Japan,Asia
+-34.804,138.511,1302,Port Adelaide,Australia,Australia
+35.143,138.694,1303,Tagonoura Ko,Japan,Asia
+37.967,139.16,1304,Niigata Ko,Japan,Asia
+35.421,139.659,1305,Yokohama Ko,Japan,Asia
+35.299,139.662,1306,Yokosuka Ko,Japan,Asia
+35.505,139.749,1307,Kawasaki Ko,Japan,Asia
+35.605,139.799,1308,Tokyo Ko,Japan,Asia
+38.945,139.821,1309,Sakata Ko,Japan,Asia
+35.358,139.87,1310,Kisarazu Ko,Japan,Asia
+35.667,139.961,1311,Funabashi,Japan,Asia
+40.202,139.995,1312,Noshiro Ko,Japan,Asia
+35.521,140.05,1313,Chiba Ko,Japan,Asia
+39.763,140.053,1314,Akita-Funakawa Ko,Japan,Asia
+49.05,140.296,1315,Bukhta Vanino,Russia,Eastern-Europe
+-8.474,140.381,1316,Merauke,Indonesia,Asia
+36.451,140.625,1317,Hitachi,Japan,Asia
+41.799,140.683,1318,Hakodate Ko,Japan,Asia
+35.922,140.683,1319,Kashima Ko,Japan,Asia
+-2.537,140.726,1320,Jayapura,Indonesia,Asia
+40.843,140.777,1321,Aomori Ko,Japan,Asia
+51.473,140.782,1322,De Kastri,Russia,Eastern-Europe
+36.928,140.887,1323,Onahama Ko,Japan,Asia
+42.346,140.966,1324,Muroran Ko,Japan,Asia
+43.202,141.02,1325,Otaru Ko,Japan,Asia
+38.289,141.038,1326,Sendai-Shiogama,Japan,Asia
+38.408,141.267,1327,Ishinomaki Ko,Japan,Asia
+43.207,141.287,1328,Ishikari Bay New Port,Japan,Asia
+-2.674,141.288,1329,Vanimo,Papua New Guinea,Oceania
+40.55,141.53,1330,Hachinohe Ko,Japan,Asia
+-38.351,141.62,1331,Portland,Australia,Australia
+43.961,141.639,1332,Rumor Ko,Japan,Asia
+42.621,141.705,1333,Tomakomai Ko,Japan,Asia
+39.053,141.732,1334,Ofunato,Japan,Asia
+-12.795,141.811,1335,Weipa,Australia,Australia
+39.264,141.898,1336,Kamaishi Ko,Japan,Asia
+46.619,142.822,1337,Korsakov,Russia,Eastern-Europe
+-9.055,143.216,1338,Daru,Papua New Guinea,Oceania
+42.295,143.331,1339,Tokachi,Japan,Asia
+-3.542,143.674,1340,Wewak Harbor,Papua New Guinea,Oceania
+42.991,144.336,1341,Kushiro Ko,Japan,Asia
+-38.108,144.372,1342,Geelong,Australia,Australia
+-8.089,144.589,1343,Kumul,Papua New Guinea,Oceania
+13.452,144.661,1344,Apra Harbor,Guam,Oceania
+-37.835,144.913,1345,Melbourne,Australia,Australia
+14.137,145.142,1346,Rota,Northern Mariana Islands,Oceania
+-38.33,145.226,1347,Western Port,Australia,Australia
+-40.833,145.39,1348,Port Latta,Australia,Australia
+14.965,145.621,1349,Tinian,Northern Mariana Islands,Oceania
+15.224,145.734,1350,Saipan,Northern Mariana Islands,Oceania
+-16.928,145.786,1351,Cairns,Australia,Australia
+-5.213,145.811,1352,Madang,Papua New Guinea,Asia
+-41.054,145.911,1353,Burnie,Australia,Australia
+-41.182,146.364,1354,Devonport,Australia,Australia
+-38.712,146.389,1355,Welshpool,Australia,Australia
+-19.252,146.835,1356,Townsville,Australia,Australia
+-41.13,146.846,1357,Port Dalrymple,Australia,Australia
+-43.16,146.976,1358,Port Huon,Australia,Australia
+-6.739,146.983,1359,Lae,Papua New Guinea,Asia
+-6.74,146.985,1360,Lae,Papua New Guinea,Asia
+-43.337,147.023,1361,Dover,Australia,Australia
+-9.424,147.074,1362,Port Moresby,Papua New Guinea,Asia
+-42.861,147.335,1363,Hobart,Australia,Australia
+-19.863,148.086,1364,Abbot Point,Australia,Australia
+-8.89,148.501,1365,Oro Bay,Papua New Guinea,Oceania
+-21.109,149.229,1366,Mackay,Australia,Australia
+-21.262,149.314,1367,Haypoint,Australia,Australia
+-5.531,150.176,1368,Kimbe,Papua New Guinea,Oceania
+-10.323,150.449,1369,Alotoa,Papua New Guinea,Oceania
+59.56,150.729,1370,Bukhta nagayeva (Nagadan),Russia,Eastern-Europe
+-2.605,150.771,1371,Kavieng Harbor,Papua New Guinea,Oceania
+-23.588,150.864,1372,Port Alma,Australia,Australia
+-34.463,150.895,1373,Port Kembla,Australia,Australia
+-33.852,151.191,1374,Sydney,Australia,Australia
+-33.987,151.215,1375,Botany Bay,Australia,Australia
+-23.813,151.234,1376,Gladstone,Australia,Australia
+-32.899,151.771,1377,Newcastle,Australia,Australia
+7.446,151.839,1378,Moen,Micronesia,Oceania
+-4.208,152.169,1379,Rabaul,Papua New Guinea,Oceania
+-3.119,152.651,1380,Put Put,Papua New Guinea,Oceania
+-27.394,153.156,1381,Brisbane,Australia,Australia
+-5.432,154.678,1382,Buka,Papua New Guinea,Oceania
+-6.214,155.641,1383,Kieta,Papua New Guinea,Oceania
+-6.712,156.409,1384,Poroporo,Solomon Islands,Oceania
+-8.1,156.846,1385,Gizo Harbor,Solomon Islands,Oceania
+-8.114,157.081,1386,Ringgi Cove,Solomon Islands,Oceania
+-8.222,157.195,1387,Port Noro,Solomon Islands,Oceania
+-8.39,157.553,1388,Ndora,Solomon Islands,Oceania
+-8.569,157.918,1389,Seghe,Solomon Islands,Oceania
+6.982,158.201,1390,Pornpei Harbor,Micronesia,Oceania
+-8.778,158.221,1391,Peava,Solomon Islands,Oceania
+53.033,158.631,1392,Petrapavlovsk,Russia,Eastern-Europe
+-9.425,159.993,1393,Honiara,Solomon Islands,Oceania
+-9.638,160.649,1394,Mbulo,Solomon Islands,Oceania
+5.353,162.96,1395,Lele Harbor,Micronesia,Oceania
+-20.496,164.169,1396,Paagoumene,New Caledonia,Oceania
+-20.752,164.355,1397,Gomen,New Caledonia,Oceania
+-21.005,164.674,1398,Voh,New Caledonia,Oceania
+-21.335,164.99,1399,Nepoui,New Caledonia,Oceania
+-21.145,165.557,1400,Baie Ugue,New Caledonia,Oceania
+-21.393,165.84,1401,Baie De Kouaoua,New Caledonia,Oceania
+-22.265,166.421,1402,Noumea,New Caledonia,Oceania
+-0.53,166.91,1403,Nauru,Nauru,Oceania
+-15.517,167.192,1404,Luganville,Vanuatu,Oceania
+8.734,167.733,1405,Kwajalein,Marshall Islands,Oceania
+-17.745,168.308,1406,Port Vila,Vanuatu,Oceania
+-46.6,168.344,1407,Bluff Harbor,New Zealand,Oceania
+-45.848,170.59,1408,Otago,New Zealand,Oceania
+-44.393,171.259,1409,Timaru,New Zealand,Oceania
+7.097,171.365,1410,Majuro Atoll,Marshall Islands,Oceania
+-43.614,172.752,1411,Port Lyttelton,New Zealand,Oceania
+1.365,172.935,1412,Tarawa Atoll,Kiribati,Oceania
+-41.258,173.275,1413,Nelson,New Zealand,Oceania
+-41.281,174.006,1414,Picton,New Zealand,Oceania
+-39.055,174.036,1415,New Plymouth,New Zealand,Oceania
+-35.836,174.483,1416,Whangerei,New Zealand,Oceania
+-36.839,174.782,1417,Auckland,New Zealand,Oceania
+-41.292,174.848,1418,Wellington,New Zealand,Oceania
+-37.65,176.177,1419,Tauranga,New Zealand,Oceania
+-39.474,176.921,1420,Napier,New Zealand,Oceania
+-17.643,177.407,1421,Lautoka Harbor,Fiji,Oceania
+-38.675,178.024,1422,Gisborne,New Zealand,Oceania
+-18.138,178.415,1423,Suva Harbor,Fiji,Oceania
+-17.687,178.836,1424,Levuka,Fiji,Oceania
+-8.49,179.141,1425,Funafuti Atoll,Tuvalu,Oceania
+-16.354,179.369,1426,Malai,Fiji,Oceania
